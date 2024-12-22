@@ -1,0 +1,2310 @@
+Chromosome,Arm,Band,Abnormality,MorphName,Morph,TopoName,Topo,CaseCount,Gene,Type
+1,q,10,der,"Acute myeloid leukemia, NOS",1101,,,36,,U
+1,q,10,der,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,,U
+1,q,10,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,,U
+1,q,10,der,"Myelodysplastic syndrome, NOS",1501,,,39,,U
+1,q,10,der,Refractory anemia,1505,,,89,,U
+1,q,10,der,Refractory anemia with excess of blasts (FAB),1509,,,18,,U
+1,q,10,der,Multiple myeloma,1702,,,12,,U
+1,q,10,der,Multiple myeloma,1702,,,53,,U
+1,q,10,der,Adenocarcinoma,3111,Breast,401.0,54,,U
+1,q,10,der,Multiple myeloma,1702,,,9,,U
+1,q,10,der,Multiple myeloma,1702,,,22,,U
+1,q,10,der,Multiple myeloma,1702,,,9,,U
+1,q,10,i,"Acute myeloid leukemia, NOS",1101,,,8,,U
+1,q,10,i,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+1,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,28,,U
+1,q,10,i,Multiple myeloma,1702,,,59,,U
+1,q,10,i,"Mature B-cell neoplasm, NOS",1801,,,14,,U
+1,q,10,i,Follicular lymphoma,1810,,,19,,U
+1,q,10,i,Diffuse large B-cell lymphoma,1820,,,34,,U
+1,q,10,i,Burkitt lymphoma/leukemia,1822,,,20,,U
+1,q,10,i,"Anaplastic large cell lymphoma, systemic type",1922,,,9,,U
+1,q,10,i,"Hodgkin disease, lymphocyte predominance",2002,,,11,,U
+1,q,10,i,Adenocarcinoma,3111,Lung,107.0,12,,U
+1,q,10,i,Adenocarcinoma,3111,Pancreas,218.0,12,,U
+1,q,10,i,Adenocarcinoma,3111,Large intestine,227.0,13,,U
+1,q,10,i,Adenocarcinoma,3111,Kidney,301.0,25,,U
+1,q,10,i,Adenocarcinoma,3111,Breast,401.0,58,,U
+1,q,10,i,Adenocarcinoma,3111,Ovary,501.0,14,,U
+1,q,10,i,Adenocarcinoma,3111,"Uterus, corpus",505.0,14,,U
+1,q,10,i,Wilms tumor,3135,Kidney,301.0,30,,U
+1,q,10,i,Malignant melanoma,6011,Skin,1101.0,9,,U
+1,q,10,i,Ewing sarcoma,8740,Skeleton,901.0,8,,U
+3,q,10,i,Squamous cell carcinoma,3121,Lung,107.0,8,,U
+3,q,10,i,Squamous cell carcinoma,3121,Oral cavity,203.0,12,,U
+3,q,10,i,Squamous cell carcinoma,3121,Tongue,208.0,10,,U
+3,q,10,i,Nonneoplastic hematologic disorder/lesion,9029,,,16,,U
+5,p,10,der,"Acute myeloid leukemia, NOS",1101,,,40,,U
+5,p,10,der,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+5,p,10,der,Refractory cytopenia with multilineage dysplasia,1515,,,12,,U
+5,p,10,der,Refractory anemia with excess blasts-1,1519,,,8,,U
+5,p,10,der,Refractory anemia with excess blasts-2,1521,,,9,,U
+5,p,10,i,"Acute myeloid leukemia, NOS",1101,,,12,,U
+5,p,10,i,Adenocarcinoma,3111,Lung,107.0,14,,U
+5,p,10,i,Adenocarcinoma,3111,Large intestine,227.0,13,,U
+5,p,10,i,Adenocarcinoma,3111,Ovary,501.0,16,,U
+5,p,10,i,Squamous cell carcinoma,3121,Lung,107.0,8,,U
+5,p,10,i,Squamous cell carcinoma,3121,Oral cavity,203.0,15,,U
+5,p,10,i,Transitional cell carcinoma,3131,Bladder,305.0,11,,U
+6,p,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,20,,U
+6,p,10,i,Multiple myeloma,1702,,,11,,U
+6,p,10,i,"Mature B-cell neoplasm, NOS",1801,,,12,,U
+6,p,10,i,Follicular lymphoma,1810,,,87,,U
+6,p,10,i,Diffuse large B-cell lymphoma,1820,,,59,,U
+6,p,10,i,Adenocarcinoma,3111,Breast,401.0,9,,U
+6,p,10,i,Adenocarcinoma,3111,Ovary,501.0,8,,U
+6,p,10,i,Retinoblastoma,5211,Eye,810.0,46,,U
+6,p,10,i,Malignant melanoma,6011,Eye,810.0,10,,U
+7,p,10,der,"Acute myeloid leukemia, NOS",1101,,,36,,U
+7,p,10,der,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,,U
+7,p,10,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,,U
+7,p,10,der,"Myelodysplastic syndrome, NOS",1501,,,39,,U
+7,p,10,der,Refractory anemia,1505,,,89,,U
+7,p,10,der,Refractory anemia with excess of blasts (FAB),1509,,,18,,U
+7,q,10,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+7,p,10,i,"Acute myeloid leukemia, NOS",1101,,,30,,U
+7,p,10,i,"Mature B-cell neoplasm, NOS",1801,,,8,,U
+7,p,10,i,Adenocarcinoma,3111,Large intestine,227.0,12,,U
+7,q,10,i,"Acute myeloid leukemia, NOS",1101,,,10,,U
+7,q,10,i,Acute megakaryoblastic leukemia (FAB type M7),1113,,,17,,U
+7,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,165,,U
+7,q,10,i,Diffuse large B-cell lymphoma,1820,,,8,,U
+7,q,10,i,Burkitt lymphoma/leukemia,1822,,,9,,U
+7,q,10,i,"Mature T- and NK-cell neoplasm, NOS",1901,,,8,,U
+7,q,10,i,Hepatosplenic T-cell lymphoma,1918,,,42,,U
+7,q,10,i,Wilms tumor,3135,Kidney,301.0,23,,U
+7,q,10,i,Nonneoplastic hematologic disorder/lesion,9029,,,12,,U
+8,q,10,i,"Acute myeloid leukemia, NOS",1101,,,51,,U
+8,q,10,i,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,9,,U
+8,q,10,i,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,21,,U
+8,q,10,i,Acute myelomonocytic leukemia (FAB type M4),1107,,,10,,U
+8,q,10,i,Acute monoblastic leukemia (FAB type M5),1108,,,10,,U
+8,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,45,,U
+8,q,10,i,Multiple myeloma,1702,,,22,,U
+8,q,10,i,Chronic lymphocytic leukemia,1802,,,11,,U
+8,q,10,i,Follicular lymphoma,1810,,,8,,U
+8,q,10,i,Diffuse large B-cell lymphoma,1820,,,11,,U
+8,q,10,i,T-prolymphocytic leukemia,1902,,,51,,U
+8,q,10,i,Mycosis fungoides/Sézary syndrome,1906,,,9,,U
+8,q,10,i,Adenocarcinoma,3111,Lung,107.0,11,,U
+8,q,10,i,Adenocarcinoma,3111,Stomach,216.0,11,,U
+8,q,10,i,Adenocarcinoma,3111,Pancreas,218.0,9,,U
+8,q,10,i,Adenocarcinoma,3111,Large intestine,227.0,42,,U
+8,q,10,i,Adenocarcinoma,3111,Kidney,301.0,26,,U
+8,q,10,i,Adenocarcinoma,3111,Breast,401.0,19,,U
+8,q,10,i,Adenocarcinoma,3111,Ovary,501.0,12,,U
+8,q,10,i,Squamous cell carcinoma,3121,Oral cavity,203.0,18,,U
+8,q,10,i,Squamous cell carcinoma,3121,Tongue,208.0,19,,U
+8,q,10,i,Squamous cell carcinoma,3121,Vagina,509.0,17,,U
+8,q,10,i,Transitional cell carcinoma,3131,Bladder,305.0,8,,U
+8,q,10,i,Malignant melanoma,6011,Eye,810.0,46,,U
+9,q,10,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+9,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,207,,U
+9,q,10,i,Follicular lymphoma,1810,,,8,,U
+9,q,10,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+11,q,10,i,"Acute myeloid leukemia, NOS",1101,,,37,,U
+11,q,10,i,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,16,,U
+11,q,10,i,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+12,p,10,i,Seminoma/Dysgerminoma,3902,Testis,601.0,48,,U
+12,p,10,i,Teratoma (mature and immature),3903,Testis,601.0,116,,U
+12,p,10,i,Combined germ cell tumors,3905,Testis,601.0,43,,U
+13,q,10,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+13,q,10,i,"Acute myeloid leukemia, NOS",1101,,,13,,U
+13,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+13,q,10,i,Adenocarcinoma,3111,Large intestine,227.0,21,,U
+13,q,10,i,Squamous cell carcinoma,3121,Oral cavity,203.0,8,,U
+14,q,10,i,"Acute myeloid leukemia, NOS",1101,,,9,,U
+14,q,10,i,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+14,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+15,q,10,der,Multiple myeloma,1702,,,12,,U
+16,p,10,der,Multiple myeloma,1702,,,53,,U
+16,p,10,der,Adenocarcinoma,3111,Breast,401.0,54,,U
+16,q,10,der,Multiple myeloma,1702,,,9,,U
+17,q,10,der,"Acute myeloid leukemia, NOS",1101,,,40,,U
+17,q,10,der,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+17,q,10,der,Refractory cytopenia with multilineage dysplasia,1515,,,12,,U
+17,q,10,der,Refractory anemia with excess blasts-1,1519,,,8,,U
+17,q,10,der,Refractory anemia with excess blasts-2,1521,,,9,,U
+17,q,10,der,"Chronic myeloid leukemia, t(9;22)",1202,,,10,,U
+17,q,10,der,Chronic lymphocytic leukemia,1802,,,21,,U
+17,q,10,i,"Acute myeloid leukemia, NOS",1101,,,97,,U
+17,q,10,i,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,12,,U
+17,q,10,i,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,,U
+17,q,10,i,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,28,,U
+17,q,10,i,Acute promyelocytic leukemia (FAB type M3),1106,,,20,,U
+17,q,10,i,Acute myelomonocytic leukemia (FAB type M4),1107,,,19,,U
+17,q,10,i,Acute erythroleukemia (FAB type M6),1112,,,9,,U
+17,q,10,i,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,,U
+17,q,10,i,"Chronic myeloid leukemia, t(9;22)",1202,,,413,,U
+17,q,10,i,"Chronic myeloid leukemia, aberrant translocation",1203,,,31,,U
+17,q,10,i,Chronic myelomonocytic leukemia,1302,,,13,,U
+17,q,10,i,"Chronic myeloproliferative disorder, NOS",1401,,,22,,U
+17,q,10,i,"Myelodysplastic syndrome, NOS",1501,,,14,,U
+17,q,10,i,Refractory anemia,1505,,,9,,U
+17,q,10,i,Refractory anemia with excess of blasts (FAB),1509,,,14,,U
+17,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,171,,U
+17,q,10,i,"Mature B-cell neoplasm, NOS",1801,,,19,,U
+17,q,10,i,Chronic lymphocytic leukemia,1802,,,64,,U
+17,q,10,i,Mantle cell lymphoma,1808,,,13,,U
+17,q,10,i,Follicular lymphoma,1810,,,56,,U
+17,q,10,i,Splenic marginal zone B-cell lymphoma,1816,,,10,,U
+17,q,10,i,Diffuse large B-cell lymphoma,1820,,,40,,U
+17,q,10,i,Mycosis fungoides/Sézary syndrome,1906,,,15,,U
+17,q,10,i,Adenocarcinoma,3111,Large intestine,227.0,36,,U
+17,q,10,i,Adenocarcinoma,3111,Kidney,301.0,8,,U
+17,q,10,i,Adenocarcinoma,3111,Breast,401.0,12,,U
+17,q,10,i,Adenocarcinoma,3111,Ovary,501.0,17,,U
+17,q,10,i,Wilms tumor,3135,Kidney,301.0,13,,U
+17,q,10,i,Primitive neuroectodermal tumor/Medulloblastoma,5220,Brain,801.0,15,,U
+17,q,10,i,Primitive neuroectodermal tumor/Medulloblastoma,5220,Cerebellum,804.0,39,,U
+17,q,10,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,30,,U
+17,q,10,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,13,,U
+17,q,10,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,30,,U
+17,q,10,ider,"Acute myeloid leukemia, NOS",1101,,,11,,U
+18,q,10,der,"Chronic myeloid leukemia, t(9;22)",1202,,,10,,U
+18,q,10,der,Chronic lymphocytic leukemia,1802,,,21,,U
+18,q,10,i,Follicular lymphoma,1810,,,10,,U
+18,q,10,i,Diffuse large B-cell lymphoma,1820,,,32,,U
+18,q,10,i,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,10,,U
+19,p,10,der,Multiple myeloma,1702,,,22,,U
+21,q,10,der,Multiple myeloma,1702,,,9,,U
+21,q,10,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+21,q,10,i,"Acute myeloid leukemia, NOS",1101,,,49,,U
+21,q,10,i,Acute myelomonocytic leukemia (FAB type M4),1107,,,10,,U
+21,q,10,i,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+21,q,10,i,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,70,,U
+21,q,10,i,Multiple myeloma,1702,,,11,,U
+21,q,10,i,Diffuse large B-cell lymphoma,1820,,,11,,U
+21,q,10,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+22,q,10,i,"Acute myeloid leukemia, NOS",1101,,,19,,U
+22,q,10,ider,"Chronic myeloid leukemia, t(9;22)",1202,,,43,,U
+1,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+1,p,11,add,Multiple myeloma,1702,,,30,,U
+1,p,11,add,Follicular lymphoma,1810,,,8,,U
+1,p,11,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+1,p,11,add,Adenocarcinoma,3111,Lung,107.0,8,,U
+1,p,11,add,Adenocarcinoma,3111,Breast,401.0,24,,U
+1,q,11,add,Multiple myeloma,1702,,,8,,U
+1,p,11,del,Multiple myeloma,1702,,,13,,U
+1,p,11,del,Diffuse large B-cell lymphoma,1820,,,8,,U
+1,p,11,del,Multiple myeloma,1702,,,15,,U
+1,p,11,del,Multiple myeloma,1702,,,12,,U
+1,q,11,del,Multiple myeloma,1702,,,8,,U
+1,q,11,del,Adenocarcinoma,3111,Breast,401.0,12,,U
+1,q,11,del,Leiomyosarcoma,8310,Soft tissue,902.0,8,,U
+1,q,11,del,Undifferentiated pleomorphic sarcoma,8541,Soft tissue,902.0,13,,U
+1,q,11,del,"Osteosarcoma, NOS",8710,Skeleton,901.0,12,,U
+1,p,11,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+1,p,11,der,"Myelodysplastic syndrome, NOS",1501,,,17,,U
+1,p,11,der,Refractory anemia,1505,,,15,,U
+2,p,11,t,Splenic marginal zone B-cell lymphoma,1816,,,8,IGK::CDK6,B
+2,p,11,t,"Mature B-cell neoplasm, NOS",1801,,,8,MYC+,B
+2,p,11,t,Burkitt lymphoma/leukemia,1822,,,10,IGK::MYC,B
+2,p,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,B
+2,p,11,t,Follicular lymphoma,1810,,,9,"IGK::BCL2,IGK::KDSR",B
+2,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+2,p,11,add,Diffuse large B-cell lymphoma,1820,,,12,,U
+3,p,11,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+3,p,11,add,Adenocarcinoma,3111,Kidney,301.0,11,,U
+3,p,11,add,Adenocarcinoma,3111,Breast,401.0,9,,U
+3,q,11,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+3,p,11,del,Adenocarcinoma,3111,Kidney,301.0,12,,U
+5,q,11,add,"Acute myeloid leukemia, NOS",1101,,,43,,U
+5,q,11,add,Acute erythroleukemia (FAB type M6),1112,,,12,,U
+5,q,11,add,"Myelodysplastic syndrome, NOS",1501,,,33,,U
+5,q,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+5,q,11,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,11,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+5,q,11,der,Adenocarcinoma,3111,Kidney,301.0,9,,U
+5,p,11,der,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,11,dic,"Acute myeloid leukemia, NOS",1101,,,15,,U
+7,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,"PAX5::AUTS2,PAX5::ELN",B
+7,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+7,p,11,add,"Acute myeloid leukemia, NOS",1101,,,16,,U
+7,p,11,add,Acute megakaryoblastic leukemia (FAB type M7),1113,,,11,,U
+7,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+7,p,11,add,Multiple myeloma,1702,,,11,,U
+7,q,11,add,"Acute myeloid leukemia, NOS",1101,,,39,,U
+7,q,11,add,"Myelodysplastic syndrome, NOS",1501,,,21,,U
+7,p,11,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+7,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+7,q,11,del,"Acute myeloid leukemia, NOS",1101,,,33,,U
+7,q,11,del,"Myelodysplastic syndrome, NOS",1501,,,14,,U
+7,q,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+7,q,11,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+7,p,11,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+7,p,11,der,"Myelodysplastic syndrome, NOS",1501,,,17,,U
+7,p,11,der,Refractory anemia,1505,,,15,,U
+7,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,37,,U
+7,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+7,p,11,r,"Acute myeloid leukemia, NOS",1101,,,13,,U
+7,q,11,r,"Acute myeloid leukemia, NOS",1101,,,13,,U
+8,p,11,t,"Chronic myeloproliferative disorder, NOS",1401,,,10,ZMYM2::FGFR1,B
+8,p,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"FGFR1::ZMYM2,FGFR1+,ZMYM2::FGFR1",B
+8,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,70,"IGH::CEBPD,IGH+",B
+8,p,11,t,"Acute myeloid leukemia, NOS",1101,,,25,KAT6A::CREBBP,B
+8,p,11,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,35,"CREBBP+,KAT6A::CREBBP,KAT6A+",B
+8,p,11,t,Acute monoblastic leukemia (FAB type M5),1108,,,29,"CREBBP::KAT6A,CREBBP+,KAT6A::CREBBP,KAT6A+",B
+8,p,11,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,42,"CREBBP+,KAT6A::CREBBP,KAT6A+",B
+8,p,11,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,22,"CREBBP+,KAT6A::CREBBP",B
+8,p,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"BCR::FGFR1,FGFR1::BCR",B
+8,p,11,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+8,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+8,p,11,add,Multiple myeloma,1702,,,32,,U
+8,p,11,add,Diffuse large B-cell lymphoma,1820,,,11,,U
+8,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+8,p,11,del,Multiple myeloma,1702,,,13,,U
+8,q,11,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+9,p,11,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,B
+9,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+9,p,11,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+9,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+9,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,37,,U
+9,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+9,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,61,,U
+9,p,11,idic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+X,p,11,t,Adenocarcinoma,3111,Kidney,301.0,10,"SFPQ::TFE3,TFE3::SFPQ",B
+X,p,11,t,Adenocarcinoma,3111,Kidney,301.0,30,,B
+X,p,11,t,Adenocarcinoma,3111,Kidney,301.0,15,"ASPSCR1::TFE3,TFE3::ASPSCR1",B
+X,p,11,t,Synovial sarcoma,8522,Soft tissue,902.0,141,"SS18::SSX1,SS18::SSX2,SS18::SSX4",B
+X,p,11,der,Synovial sarcoma,8522,Soft tissue,902.0,8,,U
+X,p,11,der,Synovial sarcoma,8522,Soft tissue,902.0,17,,U
+10,p,11,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+11,p,11,add,"Acute myeloid leukemia, NOS",1101,,,23,,U
+11,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+11,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+11,p,11,add,Multiple myeloma,1702,,,9,,U
+11,p,11,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+11,p,11,add,Adenocarcinoma,3111,Breast,401.0,9,,U
+11,p,11,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+12,p,11,add,"Acute myeloid leukemia, NOS",1101,,,58,,U
+12,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,26,,U
+12,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,48,,U
+12,p,11,add,Multiple myeloma,1702,,,14,,U
+12,p,11,add,Follicular lymphoma,1810,,,10,,U
+12,p,11,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+12,p,11,del,"Acute myeloid leukemia, NOS",1101,,,30,,U
+12,p,11,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,,U
+12,p,11,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,,U
+12,p,11,del,Acute erythroleukemia (FAB type M6),1112,,,9,,U
+12,p,11,del,"Myelodysplastic syndrome, NOS",1501,,,17,,U
+12,p,11,del,Refractory anemia with excess of blasts (FAB),1509,,,10,,U
+12,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,85,,U
+12,p,11,del,Multiple myeloma,1702,,,17,,U
+12,p,11,del,"Acute myeloid leukemia, NOS",1101,,,19,,U
+12,p,11,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+12,p,11,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,U
+12,p,11,del,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+12,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+12,p,11,del,Multiple myeloma,1702,,,11,,U
+12,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+12,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+12,p,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+13,p,11,add,"Acute myeloid leukemia, NOS",1101,,,29,,U
+13,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+13,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+13,p,11,add,Multiple myeloma,1702,,,20,,U
+13,p,11,add,Chronic lymphocytic leukemia,1802,,,9,,U
+13,p,11,add,Diffuse large B-cell lymphoma,1820,,,14,,U
+13,p,11,add,Adenocarcinoma,3111,Pancreas,218.0,8,,U
+13,p,11,add,Adenocarcinoma,3111,Kidney,301.0,8,,U
+14,q,11,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,39,"BCL11B::TRD,IGH::CEBPE,IGH::TRA,IGH::TRD,TCL1A+",B
+14,q,11,inv,T-prolymphocytic leukemia,1902,,,68,"TCL1A+,TRA+",B
+14,q,11,inv,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,10,TRA+,B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,TRA+,B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,"TRA::MYC,TRD::MYC,TRD+",B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,73,"TLX1::TRA,TRA::TLX1,TRA+,TRD::TLX1",B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,103,"LMO2::TRA,LMO2+,TRA::LMO2,TRA+,TRD::LMO2,TRD+",B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,"LMO1::TRA,TRA+,TRD::LMO1",B
+14,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,"CEBPE::IGH,IGH::CEBPE,IGH+,TCL1A+,TRA+",B
+14,q,11,t,T-prolymphocytic leukemia,1902,,,15,"TRA::MTCP1,TRA+",B
+14,p,11,add,"Acute myeloid leukemia, NOS",1101,,,23,,U
+14,p,11,add,Acute erythroleukemia (FAB type M6),1112,,,8,,U
+14,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+14,p,11,add,Multiple myeloma,1702,,,20,,U
+14,p,11,add,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,12,,U
+14,p,11,add,Adenocarcinoma,3111,Pancreas,218.0,11,,U
+14,p,11,add,Adenocarcinoma,3111,Breast,401.0,9,,U
+14,p,11,add,Squamous cell carcinoma,3121,Tongue,208.0,9,,U
+14,p,11,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,9,,U
+15,p,11,add,"Acute myeloid leukemia, NOS",1101,,,31,,U
+15,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,12,,U
+15,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+15,p,11,add,Multiple myeloma,1702,,,34,,U
+15,p,11,add,Chronic lymphocytic leukemia,1802,,,10,,U
+15,p,11,add,Mantle cell lymphoma,1808,,,10,,U
+15,p,11,add,Follicular lymphoma,1810,,,8,,U
+15,p,11,add,Diffuse large B-cell lymphoma,1820,,,21,,U
+15,p,11,add,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,8,,U
+15,p,11,add,Adenocarcinoma,3111,Lung,107.0,9,,U
+15,p,11,add,Adenocarcinoma,3111,Pancreas,218.0,11,,U
+15,p,11,add,Adenocarcinoma,3111,Breast,401.0,11,,U
+15,p,11,add,Squamous cell carcinoma,3121,Tongue,208.0,8,,U
+15,p,11,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,10,,U
+16,p,11,t,"Liposarcoma, myxoid/round cell",8034,Soft tissue,902.0,91,"DDIT3+,FUS::DDIT3",B
+16,p,11,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,19,"ERG+,FUS::ERG",B
+16,p,11,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,"ERG+,FUS::ERG",B
+16,p,11,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,FUS::ERG,B
+16,p,11,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,FUS::ERG,B
+16,p,11,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+16,q,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+16,p,11,der,"Liposarcoma, myxoid/round cell",8034,Soft tissue,902.0,9,,U
+16,q,11,der,Multiple myeloma,1702,,,14,,U
+16,q,11,der,Ewing sarcoma,8740,Skeleton,901.0,10,,U
+17,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+17,q,11,t,"Acute myeloid leukemia, NOS",1101,,,10,,B
+17,q,11,t,Acute promyelocytic leukemia (FAB type M3),1106,,,109,,B
+17,p,11,add,"Acute myeloid leukemia, NOS",1101,,,87,,U
+17,p,11,add,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,,U
+17,p,11,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,20,,U
+17,p,11,add,Acute megakaryoblastic leukemia (FAB type M7),1113,,,9,,U
+17,p,11,add,"Chronic myeloid leukemia, t(9;22)",1202,,,10,,U
+17,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,26,,U
+17,p,11,add,Refractory anemia with excess of blasts (FAB),1509,,,11,,U
+17,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,34,,U
+17,p,11,add,Multiple myeloma,1702,,,32,,U
+17,p,11,add,"Mature B-cell neoplasm, NOS",1801,,,10,,U
+17,p,11,add,Chronic lymphocytic leukemia,1802,,,30,,U
+17,p,11,add,Follicular lymphoma,1810,,,9,,U
+17,p,11,add,Diffuse large B-cell lymphoma,1820,,,36,,U
+17,p,11,add,Adenocarcinoma,3111,Lung,107.0,9,,U
+17,p,11,add,Adenocarcinoma,3111,Pancreas,218.0,8,,U
+17,p,11,add,Adenocarcinoma,3111,Large intestine,227.0,11,,U
+17,p,11,add,Adenocarcinoma,3111,Breast,401.0,15,,U
+17,p,11,add,Squamous cell carcinoma,3121,Lung,107.0,8,,U
+17,p,11,del,"Acute myeloid leukemia, NOS",1101,,,29,,U
+17,p,11,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,,U
+17,p,11,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+17,p,11,del,"Chronic myeloid leukemia, t(9;22)",1202,,,8,,U
+17,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,58,,U
+17,p,11,del,Multiple myeloma,1702,,,28,,U
+17,p,11,del,Chronic lymphocytic leukemia,1802,,,26,,U
+17,p,11,del,Mantle cell lymphoma,1808,,,9,,U
+17,p,11,del,Follicular lymphoma,1810,,,17,,U
+17,p,11,del,Diffuse large B-cell lymphoma,1820,,,30,,U
+17,p,11,del,Burkitt lymphoma/leukemia,1822,,,11,,U
+17,p,11,del,Adenocarcinoma,3111,Lung,107.0,10,,U
+17,p,11,del,Adenocarcinoma,3111,Large intestine,227.0,11,,U
+17,p,11,del,Adenocarcinoma,3111,Breast,401.0,8,,U
+17,p,11,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+17,p,11,der,"Acute myeloid leukemia, NOS",1101,,,9,,U
+17,p,11,dic,"Acute myeloid leukemia, NOS",1101,,,15,,U
+17,p,11,dic,Chronic lymphocytic leukemia,1802,,,10,,U
+17,p,11,idic,"Acute myeloid leukemia, NOS",1101,,,9,,U
+17,p,11,idic,"Chronic myeloid leukemia, t(9;22)",1202,,,22,,U
+17,p,11,idic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+18,q,11,t,Synovial sarcoma,8522,Soft tissue,902.0,141,"SS18::SSX1,SS18::SSX2,SS18::SSX4",B
+18,p,11,add,"Acute myeloid leukemia, NOS",1101,,,25,,U
+18,p,11,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,11,,U
+18,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,9,,U
+18,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+18,p,11,add,Multiple myeloma,1702,,,14,,U
+18,p,11,add,Chronic lymphocytic leukemia,1802,,,14,,U
+18,p,11,add,Diffuse large B-cell lymphoma,1820,,,16,,U
+18,p,11,add,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,13,,U
+18,p,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+18,q,11,der,Synovial sarcoma,8522,Soft tissue,902.0,8,,U
+18,q,11,der,Synovial sarcoma,8522,Soft tissue,902.0,17,,U
+18,p,11,dic,Chronic lymphocytic leukemia,1802,,,10,,U
+20,q,11,add,"Acute myeloid leukemia, NOS",1101,,,11,,U
+20,q,11,del,"Acute myeloid leukemia, NOS",1101,,,68,,U
+20,q,11,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,,U
+20,q,11,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,16,,U
+20,q,11,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+20,q,11,del,Acute erythroleukemia (FAB type M6),1112,,,12,,U
+20,q,11,del,"Chronic myeloid leukemia, t(9;22)",1202,,,15,,U
+20,q,11,del,Chronic myelomonocytic leukemia,1302,,,8,,U
+20,q,11,del,Polycythemia vera,1402,,,59,,U
+20,q,11,del,Idiopathic myelofibrosis,1403,,,33,,U
+20,q,11,del,"Myelodysplastic syndrome, NOS",1501,,,52,,U
+20,q,11,del,Refractory anemia,1505,,,52,,U
+20,q,11,del,Refractory anemia with ringed sideroblasts,1507,,,12,,U
+20,q,11,del,Refractory anemia with excess of blasts (FAB),1509,,,30,,U
+20,q,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+20,q,11,del,Multiple myeloma,1702,,,37,,U
+20,q,11,del,Nonneoplastic hematologic disorder/lesion,9029,,,8,,U
+20,q,11,del,"Acute myeloid leukemia, NOS",1101,,,107,,U
+20,q,11,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,U
+20,q,11,del,"Chronic myeloid leukemia, t(9;22)",1202,,,25,,U
+20,q,11,del,Chronic myelomonocytic leukemia,1302,,,11,,U
+20,q,11,del,Polycythemia vera,1402,,,26,,U
+20,q,11,del,Idiopathic myelofibrosis,1403,,,8,,U
+20,q,11,del,Essential thrombocythemia,1404,,,9,,U
+20,q,11,del,"Myelodysplastic syndrome, NOS",1501,,,52,,U
+20,q,11,del,Refractory anemia,1505,,,18,,U
+20,q,11,del,Refractory anemia with ringed sideroblasts,1507,,,14,,U
+20,q,11,del,Refractory anemia with excess of blasts (FAB),1509,,,20,,U
+20,q,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+20,q,11,del,Multiple myeloma,1702,,,8,,U
+20,q,11,del,Nonneoplastic hematologic disorder/lesion,9029,,,15,,U
+20,q,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,61,,U
+20,q,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+20,q,11,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,72,"PAX5::ASXL1,PAX5::KIF3B,PAX5::NOL4L,ZCCHC7+",U
+21,p,11,add,"Acute myeloid leukemia, NOS",1101,,,38,,U
+21,p,11,add,"Myelodysplastic syndrome, NOS",1501,,,9,,U
+21,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,32,,U
+21,p,11,add,Multiple myeloma,1702,,,16,,U
+21,p,11,add,Diffuse large B-cell lymphoma,1820,,,14,,U
+21,p,11,add,Adenocarcinoma,3111,Pancreas,218.0,9,,U
+21,p,11,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+21,q,11,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+21,p,11,idic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+22,q,11,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,BCR::ABL1,B
+22,q,11,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,BCR::ABL1,B
+22,q,11,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,15,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,29,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,BCR::ABL1,B
+22,q,11,t,"Mature B-cell neoplasm, NOS",1801,,,10,"IGL::BCL6,IGL+",B
+22,q,11,t,Follicular lymphoma,1810,,,11,"BCL6+,IGL::BCL6",B
+22,q,11,t,Diffuse large B-cell lymphoma,1820,,,25,"BCL6+,IGL::BCL6",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+22,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"BCR::FGFR1,FGFR1::BCR",B
+22,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,55,,B
+22,q,11,t,Multiple myeloma,1702,,,36,"IGL::MYC,MYC+",B
+22,q,11,t,"Mature B-cell neoplasm, NOS",1801,,,27,MYC+,B
+22,q,11,t,Chronic lymphocytic leukemia,1802,,,13,MYC+,B
+22,q,11,t,Diffuse large B-cell lymphoma,1820,,,29,IGL::MYC,B
+22,q,11,t,Burkitt lymphoma/leukemia,1822,,,88,"IGL::MYC,IGL+,MYC+",B
+22,q,11,t,Bilineage or biphenotypic leukemia,1020,,,103,BCR::ABL1,B
+22,q,11,t,"Acute myeloid leukemia, NOS",1101,,,117,"BCR::ABL1,BCR+",B
+22,q,11,t,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,14,BCR::ABL1,B
+22,q,11,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,52,"BCR::ABL1,BCR+",B
+22,q,11,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,60,"BCR::ABL1,BCR+",B
+22,q,11,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,34,"ABL1+,BCR::ABL1,BCR+",B
+22,q,11,t,Acute erythroleukemia (FAB type M6),1112,,,10,BCR::ABL1,B
+22,q,11,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,21,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, t(9;22)",1202,,,2463,"ABL1+,BCR::ABL1,BCR+,NUP214::XKR3",B
+22,q,11,t,"Myelodysplastic syndrome, NOS",1501,,,9,BCR::ABL1,B
+22,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,1085,"BCR::ABL1,BCR+,PRRC2B::BCR",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,21,"BCR::ABL1,BCR+,GSTP1+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,"BCR::ABL1,BCR+",B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+22,q,11,t,Ewing sarcoma,8740,Skeleton,901.0,8,,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,,B
+22,q,11,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+22,q,11,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,10,BCR+,B
+22,q,11,t,Chronic lymphocytic leukemia,1802,,,32,IGL::BCL2,B
+22,p,11,add,"Acute myeloid leukemia, NOS",1101,,,17,,U
+22,p,11,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+22,p,11,add,Multiple myeloma,1702,,,14,,U
+22,p,11,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+22,q,11,add,Multiple myeloma,1702,,,9,,U
+22,q,11,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+22,q,11,del,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,BCR+,U
+22,q,11,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,33,BCR+,U
+22,q,11,del,Multiple myeloma,1702,,,26,,U
+22,q,11,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+22,q,11,del,Meningioma,8804,Brain,801.0,11,,U
+22,q,11,der,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+22,q,11,der,"Chronic myeloid leukemia, t(9;22)",1202,,,76,,U
+22,q,11,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+22,q,11,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+22,q,11,der,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,11,,U
+22,q,11,der,"Chronic myeloid leukemia, t(9;22)",1202,,,661,,U
+22,q,11,der,"Chronic myeloid leukemia, aberrant translocation",1203,,,64,,U
+22,q,11,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,289,BCR::RALGPS1::ABL1,U
+22,q,11,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+22,q,11,ider,"Chronic myeloid leukemia, t(9;22)",1202,,,43,,U
+22,p,11,idic,"Acute myeloid leukemia, NOS",1101,,,8,,U
+1,p,12,del,Multiple myeloma,1702,,,12,,U
+1,p,12,del,Multiple myeloma,1702,,,12,,U
+1,q,12,del,Adenocarcinoma,3111,Breast,401.0,12,,U
+1,q,12,der,Multiple myeloma,1702,,,14,,U
+1,q,12,der,Ewing sarcoma,8740,Skeleton,901.0,10,,U
+1,q,12,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+2,p,12,t,Follicular lymphoma,1810,,,8,,B
+2,p,12,t,Diffuse large B-cell lymphoma,1820,,,8,MYC+,B
+2,p,12,t,Burkitt lymphoma/leukemia,1822,,,22,MYC+,B
+3,p,12,del,Adenocarcinoma,3111,Kidney,301.0,17,,U
+3,p,12,del,Adenocarcinoma,3111,Breast,401.0,14,,U
+3,p,12,del,Adenocarcinoma,3111,Breast,401.0,13,,U
+3,q,12,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+4,q,12,t,"Acute myeloid leukemia, NOS",1101,,,15,ETV6::CHIC2,B
+5,q,12,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,12,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,12,del,"Acute myeloid leukemia, NOS",1101,,,27,,U
+5,q,12,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+5,q,12,del,"Acute myeloid leukemia, NOS",1101,,,13,,U
+5,q,12,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+6,q,12,add,Multiple myeloma,1702,,,8,,U
+6,q,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+6,q,12,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+7,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+7,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+8,q,12,t,Adenoma,3003,Salivary gland,210.0,77,PLAG1+,B
+9,p,12,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+9,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,34,,U
+9,q,12,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+9,q,12,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,,U
+9,p,12,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+10,p,12,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"MLLT10::EED,MLLT10::PICALM,PICALM::MLLT10,PICALM+",B
+10,p,12,der,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+12,p,12,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,RUNX1::ARHGDIB,B
+12,p,12,add,"Acute myeloid leukemia, NOS",1101,,,20,,U
+12,p,12,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,32,,U
+12,p,12,add,Multiple myeloma,1702,,,11,,U
+12,p,12,del,"Acute myeloid leukemia, NOS",1101,,,28,,U
+12,p,12,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,13,,U
+12,p,12,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,12,,U
+12,p,12,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+12,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,136,,U
+12,p,12,del,Multiple myeloma,1702,,,15,,U
+12,p,12,del,Diffuse large B-cell lymphoma,1820,,,10,,U
+12,p,12,del,Adenocarcinoma,3111,Breast,401.0,8,,U
+12,p,12,del,"Acute myeloid leukemia, NOS",1101,,,19,,U
+12,p,12,del,"Acute myeloid leukemia, NOS",1101,,,23,,U
+12,p,12,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+12,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,,U
+13,q,12,t,"Chronic myeloproliferative disorder, NOS",1401,,,10,ZMYM2::FGFR1,B
+13,q,12,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"FGFR1::ZMYM2,FGFR1+,ZMYM2::FGFR1",B
+13,q,12,del,"Acute myeloid leukemia, NOS",1101,,,23,,U
+13,q,12,del,Acute megakaryoblastic leukemia (FAB type M7),1113,,,14,,U
+13,q,12,del,Idiopathic myelofibrosis,1403,,,13,,U
+13,q,12,del,"Myelodysplastic syndrome, NOS",1501,,,24,,U
+13,q,12,del,Refractory anemia,1505,,,10,,U
+13,q,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,29,,U
+13,q,12,del,Multiple myeloma,1702,,,17,,U
+13,q,12,del,Chronic lymphocytic leukemia,1802,,,88,,U
+13,q,12,del,Follicular lymphoma,1810,,,10,,U
+13,q,12,del,Diffuse large B-cell lymphoma,1820,,,17,,U
+13,q,12,del,Multiple myeloma,1702,,,9,,U
+13,q,12,del,Chronic lymphocytic leukemia,1802,,,8,,U
+13,q,12,del,"Acute myeloid leukemia, NOS",1101,,,20,,U
+13,q,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,,U
+13,q,12,del,Multiple myeloma,1702,,,14,,U
+13,q,12,del,Chronic lymphocytic leukemia,1802,,,12,,U
+15,q,12,t,Acute promyelocytic leukemia (FAB type M3),1106,,,8,,B
+17,q,12,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"ING4::C17ORF50,SYNRG::ZNF384,TAF15::ZNF384,ZNF384::TAF15",B
+17,q,12,t,"Acute myeloid leukemia, NOS",1101,,,12,,B
+17,q,12,t,Acute promyelocytic leukemia (FAB type M3),1106,,,267,,B
+17,p,12,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+17,p,12,add,Multiple myeloma,1702,,,9,,U
+17,p,12,del,"Acute myeloid leukemia, NOS",1101,,,13,,U
+17,p,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+17,p,12,del,Multiple myeloma,1702,,,13,,U
+17,p,12,del,Chronic lymphocytic leukemia,1802,,,22,,U
+17,p,12,del,Adenocarcinoma,3111,Large intestine,227.0,12,,U
+17,q,12,der,Acute promyelocytic leukemia (FAB type M3),1106,,,15,,U
+17,q,12,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,13,,U
+20,q,12,del,"Acute myeloid leukemia, NOS",1101,,,20,,U
+20,q,12,del,Polycythemia vera,1402,,,14,,U
+20,q,12,del,"Myelodysplastic syndrome, NOS",1501,,,32,,U
+20,q,12,del,Refractory anemia,1505,,,17,,U
+20,q,12,del,Refractory anemia with excess of blasts (FAB),1509,,,10,,U
+20,q,12,del,Refractory cytopenia with multilineage dysplasia,1515,,,9,,U
+20,q,12,del,Refractory anemia with excess blasts-1,1519,,,8,,U
+20,q,12,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+20,q,12,del,Multiple myeloma,1702,,,16,,U
+20,q,12,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+22,q,12,t,"Chondrosarcoma, myxoid",8625,Soft tissue,902.0,13,,B
+22,q,12,t,Ewing sarcoma,8740,Skeleton,901.0,236,"EWSR1::FLI1,EWSR1+",B
+22,q,12,t,Ewing sarcoma,8740,Soft tissue,902.0,27,"EWSR1::FLI1,EWSR1+",B
+22,q,12,t,Clear cell sarcoma,8531,Soft tissue,902.0,10,EWSR1::ATF1,B
+22,q,12,del,Ewing sarcoma,8740,Skeleton,901.0,9,,U
+1,p,13,t,Multiple myeloma,1702,,,8,,B
+1,p,13,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,65,RBM15::MRTFA,B
+1,p,13,add,"Acute myeloid leukemia, NOS",1101,,,14,,U
+1,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+1,p,13,add,Multiple myeloma,1702,,,36,,U
+1,p,13,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+1,p,13,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+1,p,13,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+1,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+1,p,13,del,Multiple myeloma,1702,,,32,,U
+1,p,13,del,Diffuse large B-cell lymphoma,1820,,,15,,U
+1,p,13,del,Adenocarcinoma,3111,Breast,401.0,23,,U
+1,p,13,del,Meningioma,8804,Brain,801.0,13,,U
+1,p,13,del,Multiple myeloma,1702,,,14,,U
+1,p,13,del,Multiple myeloma,1702,,,10,,U
+1,p,13,del,Multiple myeloma,1702,,,15,,U
+1,p,13,der,Acute megakaryoblastic leukemia (FAB type M7),1113,,,15,,U
+2,p,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+2,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,IGH+,B
+2,p,13,t,Chronic lymphocytic leukemia,1802,,,17,IGH+,B
+2,p,13,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+2,p,13,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+3,p,13,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+3,p,13,add,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+3,p,13,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+3,p,13,add,Adenocarcinoma,3111,Kidney,301.0,23,,U
+3,p,13,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+3,p,13,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+3,p,13,del,Adenocarcinoma,3111,Lung,107.0,8,,U
+3,p,13,del,Adenocarcinoma,3111,Kidney,301.0,24,,U
+3,p,13,del,Adenocarcinoma,3111,Breast,401.0,12,,U
+3,p,13,del,Squamous cell carcinoma,3121,Lung,107.0,12,,U
+3,p,13,del,Adenocarcinoma,3111,Breast,401.0,9,,U
+3,q,13,del,Adenocarcinoma,3111,Breast,401.0,9,,U
+3,p,13,der,Adenocarcinoma,3111,Kidney,301.0,9,,U
+3,p,13,der,Adenocarcinoma,3111,Kidney,301.0,44,,U
+5,q,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,"BCR::ABL1,BCR+",B
+5,q,13,add,"Acute myeloid leukemia, NOS",1101,,,38,,U
+5,q,13,add,"Myelodysplastic syndrome, NOS",1501,,,18,,U
+5,q,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+5,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+5,q,13,del,"Acute myeloid leukemia, NOS",1101,,,26,ARHGAP26+,U
+5,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,CSF2+,U
+5,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+5,q,13,del,"Acute myeloid leukemia, NOS",1101,,,56,ARHGAP26+,U
+5,q,13,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,10,,U
+5,q,13,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,12,,U
+5,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,CSF2+,U
+5,q,13,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,18,,U
+5,q,13,del,"Myelodysplastic syndrome, NOS",1501,,,26,,U
+5,q,13,del,Refractory anemia,1505,,,14,,U
+5,q,13,del,Refractory anemia with excess of blasts (FAB),1509,,,12,,U
+5,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+5,q,13,del,"Acute myeloid leukemia, NOS",1101,,,225,,U
+5,q,13,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,14,,U
+5,q,13,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,43,,U
+5,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,48,,U
+5,q,13,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,22,,U
+5,q,13,del,Acute monoblastic leukemia (FAB type M5),1108,,,9,,U
+5,q,13,del,Acute erythroleukemia (FAB type M6),1112,,,30,,U
+5,q,13,del,"Myelodysplastic syndrome, NOS",1501,,,112,,U
+5,q,13,del,Refractory anemia,1505,,,126,,U
+5,q,13,del,Refractory anemia with ringed sideroblasts,1507,,,13,,U
+5,q,13,del,Refractory anemia with excess of blasts (FAB),1509,,,68,,U
+5,q,13,del,Refractory anemia with excess blasts-1,1519,,,10,,U
+5,q,13,del,Refractory anemia with excess blasts-2,1521,,,25,,U
+5,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+5,q,13,del,"Acute myeloid leukemia, NOS",1101,,,35,,U
+5,q,13,del,Refractory anemia,1505,,,8,,U
+5,q,13,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+5,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,U
+5,q,13,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+6,q,13,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+6,q,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+6,q,13,add,Follicular lymphoma,1810,,,8,,U
+6,q,13,add,Diffuse large B-cell lymphoma,1820,,,12,,U
+6,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+6,q,13,del,Multiple myeloma,1702,,,12,,U
+6,q,13,del,"Mature B-cell neoplasm, NOS",1801,,,10,,U
+6,q,13,del,Follicular lymphoma,1810,,,31,,U
+6,q,13,del,Diffuse large B-cell lymphoma,1820,,,22,,U
+6,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,49,,U
+6,q,13,del,Chronic lymphocytic leukemia,1802,,,9,,U
+6,q,13,del,Follicular lymphoma,1810,,,8,,U
+6,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,30,,U
+6,q,13,del,Multiple myeloma,1702,,,10,,U
+6,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+7,p,13,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+7,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+9,q,13,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,B
+9,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,"PAX5::AUTS2,PAX5::ELN",B
+9,p,13,t,"Mature B-cell neoplasm, NOS",1801,,,9,,B
+9,p,13,t,Diffuse large B-cell lymphoma,1820,,,12,"MYC::ZBTB5,MYC::ZCCHC7",B
+9,p,13,t,Splenic marginal zone B-cell lymphoma,1816,,,8,IGH::PAX5,B
+9,p,13,t,Diffuse large B-cell lymphoma,1820,,,16,"IGH::PAX5,IGH+",B
+9,p,13,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+9,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,65,,U
+9,p,13,add,Multiple myeloma,1702,,,8,,U
+9,p,13,add,Diffuse large B-cell lymphoma,1820,,,13,,U
+9,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,111,PAX5::JAK2,U
+9,p,13,del,Multiple myeloma,1702,,,11,,U
+9,p,13,del,Follicular lymphoma,1810,,,10,,U
+9,p,13,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+9,p,13,del,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,14,,U
+9,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,33,PAX5::JAK2,U
+9,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,33,PAX5::JAK2,U
+9,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,26,,U
+9,q,13,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+9,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,40,,U
+9,q,13,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,,U
+9,p,13,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+9,p,13,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,PAX5::ETV6,U
+9,p,13,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,72,"PAX5::ASXL1,PAX5::KIF3B,PAX5::NOL4L,ZCCHC7+",U
+X,q,13,t,"Myelodysplastic syndrome, NOS",1501,,,18,,B
+X,q,13,idic,"Acute myeloid leukemia, NOS",1101,,,11,,U
+10,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,B
+10,p,13,t,"Acute myeloid leukemia, NOS",1101,,,8,,B
+10,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,B
+10,p,13,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+11,q,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,21,"BCR::ABL1,BCR+,GSTP1+",B
+11,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,103,"LMO2::TRA,LMO2+,TRA::LMO2,TRA+,TRD::LMO2,TRD+",B
+11,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,B
+11,q,13,t,Multiple myeloma,1702,,,154,"CCND1+,IGH::CCND1,IGH::MRPL21",B
+11,q,13,t,Plasma cell leukemia,1708,,,24,"IGH::CCND1,IGH+",B
+11,q,13,t,"Mature B-cell neoplasm, NOS",1801,,,21,"CCND1+,IGH::CCND1,IGH+",B
+11,q,13,t,Chronic lymphocytic leukemia,1802,,,90,"IGH::CCND1,IGH+",B
+11,q,13,t,B-prolymphocytic leukemia,1804,,,16,IGH::CCND1,B
+11,q,13,t,Mantle cell lymphoma,1808,,,468,IGH::CCND1,B
+11,q,13,t,Splenic marginal zone B-cell lymphoma,1816,,,15,CCND1+,B
+11,q,13,t,Diffuse large B-cell lymphoma,1820,,,12,IGH::CCND1,B
+11,p,13,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+11,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+11,p,13,add,Adenocarcinoma,3111,Ovary,501.0,8,,U
+11,q,13,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+11,q,13,add,Multiple myeloma,1702,,,11,,U
+11,p,13,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+11,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,LMO2+,U
+11,q,13,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+11,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,U
+11,q,13,del,Multiple myeloma,1702,,,15,,U
+11,q,13,del,Chronic lymphocytic leukemia,1802,,,18,,U
+11,q,13,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+11,q,13,del,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+11,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+11,q,13,del,Chronic lymphocytic leukemia,1802,,,31,,U
+11,q,13,der,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+11,q,13,der,Mantle cell lymphoma,1808,,,30,,U
+11,q,13,der,Multiple myeloma,1702,,,54,,U
+11,q,13,der,Plasma cell leukemia,1708,,,10,,U
+11,q,13,der,Chronic lymphocytic leukemia,1802,,,10,,U
+11,q,13,der,Mantle cell lymphoma,1808,,,33,,U
+12,p,13,t,"Acute myeloid leukemia, NOS",1101,,,43,ETV6::MECOM,B
+12,p,13,t,"Myelodysplastic syndrome, NOS",1501,,,8,,B
+12,p,13,t,"Acute myeloid leukemia, NOS",1101,,,15,ETV6::CHIC2,B
+12,p,13,t,"Acute myeloid leukemia, NOS",1101,,,9,,B
+12,p,13,t,Chronic myelomonocytic leukemia,1302,,,12,,B
+12,p,13,t,"Chronic myeloproliferative disorder, NOS",1401,,,8,ETV6+,B
+12,p,13,t,"Acute myeloid leukemia, NOS",1101,,,19,"ETV6::LMBR1,ETV6+,MNX1::ETV6,NOM1::ETV6",B
+12,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"ETV6::NUFIP1,ETV6+",B
+12,q,13,t,"Liposarcoma, myxoid/round cell",8034,Soft tissue,902.0,91,"DDIT3+,FUS::DDIT3",B
+12,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+12,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,"ING4::C17ORF50,SYNRG::ZNF384,TAF15::ZNF384,ZNF384::TAF15",B
+12,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,B
+12,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,447,"ETS2::ETV6,ETV6::RUNX1,PDE9A::VWF,RUNX1::ATF7IP,RUNX1::DDX47,RUNX1::ETV6",B
+12,p,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,,B
+12,q,13,t,Clear cell sarcoma,8531,Soft tissue,902.0,10,EWSR1::ATF1,B
+12,p,13,add,"Acute myeloid leukemia, NOS",1101,,,42,ETV6+,U
+12,p,13,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,10,,U
+12,p,13,add,"Myelodysplastic syndrome, NOS",1501,,,13,,U
+12,p,13,add,Refractory anemia with excess of blasts (FAB),1509,,,9,,U
+12,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,75,ETV6+,U
+12,p,13,add,Multiple myeloma,1702,,,30,,U
+12,p,13,add,Chronic lymphocytic leukemia,1802,,,14,,U
+12,p,13,add,Follicular lymphoma,1810,,,9,,U
+12,p,13,add,Diffuse large B-cell lymphoma,1820,,,22,,U
+12,p,13,add,Adenocarcinoma,3111,Lung,107.0,8,,U
+12,p,13,add,Adenocarcinoma,3111,Breast,401.0,13,,U
+12,p,13,add,Adenocarcinoma,3111,Ovary,501.0,11,,U
+12,p,13,add,Teratoma (mature and immature),3903,Testis,601.0,13,,U
+12,p,13,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,9,,U
+12,q,13,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+12,p,13,del,"Acute myeloid leukemia, NOS",1101,,,14,ETV6+,U
+12,p,13,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,8,,U
+12,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,92,ETV6+,U
+12,p,13,del,Chronic lymphocytic leukemia,1802,,,10,,U
+12,p,13,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+12,p,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,U
+12,p,13,del,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+12,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+12,p,13,del,Multiple myeloma,1702,,,11,,U
+12,p,13,del,"Acute myeloid leukemia, NOS",1101,,,23,,U
+12,p,13,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+12,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,,U
+12,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,42,ETV6+,U
+12,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,42,ETV6+,U
+12,q,13,der,"Liposarcoma, myxoid/round cell",8034,Soft tissue,902.0,9,,U
+12,p,13,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+12,p,13,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,63,,U
+12,p,13,dic,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,PAX5::ETV6,U
+12,q,13,dup,Follicular lymphoma,1810,,,9,,U
+12,q,13,dup,Follicular lymphoma,1810,,,9,,U
+12,p,13,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+13,q,13,del,Chronic lymphocytic leukemia,1802,,,18,,U
+13,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+13,q,13,del,Chronic lymphocytic leukemia,1802,,,31,,U
+13,q,13,del,Chronic lymphocytic leukemia,1802,,,10,,U
+14,q,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,B
+16,p,13,inv,"Acute myeloid leukemia, NOS",1101,,,296,CBFB::MYH11,B
+16,p,13,inv,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,32,CBFB::MYH11,B
+16,p,13,inv,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,82,CBFB::MYH11,B
+16,p,13,inv,Acute myelomonocytic leukemia (FAB type M4),1107,,,668,"CBFB::MYH11,MYH11+",B
+16,p,13,inv,Acute monoblastic leukemia (FAB type M5),1108,,,15,CBFB::MYH11,B
+16,p,13,inv,"Chronic myeloid leukemia, t(9;22)",1202,,,37,CBFB::MYH11,B
+16,p,13,inv,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,CBFA2T3::GLIS2,B
+16,p,13,t,"Acute myeloid leukemia, NOS",1101,,,25,KAT6A::CREBBP,B
+16,p,13,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,35,"CREBBP+,KAT6A::CREBBP,KAT6A+",B
+16,p,13,t,Acute monoblastic leukemia (FAB type M5),1108,,,29,"CREBBP::KAT6A,CREBBP+,KAT6A::CREBBP,KAT6A+",B
+16,p,13,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,42,"CREBBP+,KAT6A::CREBBP,KAT6A+",B
+16,p,13,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,22,"CREBBP+,KAT6A::CREBBP",B
+16,p,13,t,"Acute myeloid leukemia, NOS",1101,,,15,CBFB::MYH11,B
+16,p,13,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,38,"CBFB::MYH11,MYH11::CBFB",B
+16,p,13,add,"Acute myeloid leukemia, NOS",1101,,,33,,U
+16,p,13,add,Acute megakaryoblastic leukemia (FAB type M7),1113,,,9,,U
+16,p,13,add,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+16,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+16,p,13,add,Multiple myeloma,1702,,,15,,U
+16,p,13,add,"Mature B-cell neoplasm, NOS",1801,,,8,,U
+16,p,13,add,Chronic lymphocytic leukemia,1802,,,9,,U
+16,p,13,add,Follicular lymphoma,1810,,,11,,U
+16,p,13,add,Diffuse large B-cell lymphoma,1820,,,16,,U
+16,p,13,add,Adenocarcinoma,3111,Breast,401.0,9,,U
+16,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+16,q,13,der,Wilms tumor,3135,Kidney,301.0,12,,U
+16,q,13,der,Ewing sarcoma,8740,Skeleton,901.0,11,,U
+17,p,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+17,p,13,t,Endometrial stromal sarcoma,8813,"Uterus, corpus",505.0,16,YWHAE::NUTM2B,B
+17,p,13,add,"Acute myeloid leukemia, NOS",1101,,,51,,U
+17,p,13,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,,U
+17,p,13,add,Acute myelomonocytic leukemia (FAB type M4),1107,,,8,,U
+17,p,13,add,"Chronic myeloid leukemia, t(9;22)",1202,,,11,,U
+17,p,13,add,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+17,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+17,p,13,add,Multiple myeloma,1702,,,23,,U
+17,p,13,add,"Mature B-cell neoplasm, NOS",1801,,,11,,U
+17,p,13,add,Chronic lymphocytic leukemia,1802,,,27,,U
+17,p,13,add,Mantle cell lymphoma,1808,,,9,,U
+17,p,13,add,Follicular lymphoma,1810,,,17,,U
+17,p,13,add,Diffuse large B-cell lymphoma,1820,,,23,,U
+17,p,13,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,8,,U
+17,p,13,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+17,p,13,del,Chronic lymphocytic leukemia,1802,,,11,,U
+17,p,13,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,B
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,204,"TCF3::PBX1,TCF3+",B
+19,p,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+19,q,13,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+19,p,13,t,Bilineage or biphenotypic leukemia,1020,,,18,"KMT2A::ELL,KMT2A::MLLT1",B
+19,p,13,t,"Acute myeloid leukemia, NOS",1101,,,72,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::MYO1F,KMT2A::SH3GL1,KMT2A::VAV1,KMT2A+,WDR18::H2AX",B
+19,p,13,t,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,8,"KMT2A::MLLT1,KMT2A+",B
+19,p,13,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,23,KMT2A+,B
+19,p,13,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,26,"KMT2A::ELL,KMT2A::MLLT1,KMT2A+",B
+19,p,13,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,43,"KMT2A::ELL,KMT2A::MLLT1,KMT2A+",B
+19,p,13,t,Acute monoblastic leukemia (FAB type M5),1108,,,30,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::MYO1F",B
+19,p,13,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,28,"KMT2A::MLLT1,KMT2A+",B
+19,p,13,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,19,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::SUGP2",B
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,166,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::RANBP3,KMT2A+",B
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,IGH::EPOR,B
+19,q,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,32,"IGH::CEBPA,IGH::CEBPG",B
+19,q,13,t,"Mature B-cell neoplasm, NOS",1801,,,13,"IGH::BCL3,IGH+",B
+19,q,13,t,Chronic lymphocytic leukemia,1802,,,181,"IGH::BCL3,IGH+",B
+19,q,13,t,Nodal marginal zone B-cell lymphoma,1814,,,53,IGH::BCL3,B
+19,q,13,t,Diffuse large B-cell lymphoma,1820,,,16,"IGH::BCL3,IGH::NECTIN2,IGH::SPIB",B
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,B
+19,p,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,TCF3::HLF,B
+19,p,13,add,"Acute myeloid leukemia, NOS",1101,,,66,,U
+19,p,13,add,Acute erythroleukemia (FAB type M6),1112,,,19,,U
+19,p,13,add,Acute megakaryoblastic leukemia (FAB type M7),1113,,,13,,U
+19,p,13,add,"Chronic myeloid leukemia, t(9;22)",1202,,,10,,U
+19,p,13,add,"Myelodysplastic syndrome, NOS",1501,,,26,,U
+19,p,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,76,,U
+19,p,13,add,Multiple myeloma,1702,,,37,,U
+19,p,13,add,Chronic lymphocytic leukemia,1802,,,14,,U
+19,p,13,add,Follicular lymphoma,1810,,,8,,U
+19,p,13,add,Diffuse large B-cell lymphoma,1820,,,30,,U
+19,p,13,add,Adenocarcinoma,3111,Kidney,301.0,9,,U
+19,p,13,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+19,p,13,add,Adenocarcinoma,3111,Ovary,501.0,29,,U
+19,p,13,add,Myxofibrosarcoma,8137,Soft tissue,902.0,8,,U
+19,q,13,add,"Acute myeloid leukemia, NOS",1101,,,44,,U
+19,q,13,add,"Chronic myeloid leukemia, t(9;22)",1202,,,10,,U
+19,q,13,add,"Myelodysplastic syndrome, NOS",1501,,,15,,U
+19,q,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,31,,U
+19,q,13,add,Multiple myeloma,1702,,,63,,U
+19,q,13,add,"Mature B-cell neoplasm, NOS",1801,,,13,,U
+19,q,13,add,Chronic lymphocytic leukemia,1802,,,16,,U
+19,q,13,add,Follicular lymphoma,1810,,,20,,U
+19,q,13,add,Diffuse large B-cell lymphoma,1820,,,63,,U
+19,q,13,add,Adenocarcinoma,3111,Lung,107.0,10,,U
+19,q,13,add,Adenocarcinoma,3111,Pancreas,218.0,15,,U
+19,q,13,add,Adenocarcinoma,3111,Kidney,301.0,8,,U
+19,q,13,add,Adenocarcinoma,3111,Breast,401.0,14,,U
+19,q,13,add,Adenocarcinoma,3111,Ovary,501.0,24,,U
+19,q,13,add,Squamous cell carcinoma,3121,Lung,107.0,8,,U
+19,q,13,add,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,10,,U
+19,q,13,add,Leiomyosarcoma,8310,Soft tissue,902.0,11,,U
+19,q,13,add,Malignant peripheral nerve sheath tumor/Triton,8516,Soft tissue,902.0,9,,U
+19,q,13,add,Undifferentiated pleomorphic sarcoma,8541,Soft tissue,902.0,13,,U
+19,q,13,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,14,,U
+19,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+19,p,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+19,p,13,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+19,p,13,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,313,,U
+20,q,13,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,IGH::CEBPB,B
+20,q,13,t,"Myelodysplastic syndrome, NOS",1501,,,18,,B
+20,p,13,add,"Acute myeloid leukemia, NOS",1101,,,11,,U
+20,p,13,add,Multiple myeloma,1702,,,11,,U
+20,q,13,add,"Acute myeloid leukemia, NOS",1101,,,18,,U
+20,q,13,add,"Myelodysplastic syndrome, NOS",1501,,,12,,U
+20,q,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+20,q,13,add,Multiple myeloma,1702,,,21,,U
+20,q,13,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+20,q,13,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+20,q,13,add,Adenocarcinoma,3111,Ovary,501.0,9,,U
+20,q,13,del,"Acute myeloid leukemia, NOS",1101,,,107,,U
+20,q,13,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,U
+20,q,13,del,"Chronic myeloid leukemia, t(9;22)",1202,,,25,,U
+20,q,13,del,Chronic myelomonocytic leukemia,1302,,,11,,U
+20,q,13,del,Polycythemia vera,1402,,,26,,U
+20,q,13,del,Idiopathic myelofibrosis,1403,,,8,,U
+20,q,13,del,Essential thrombocythemia,1404,,,9,,U
+20,q,13,del,"Myelodysplastic syndrome, NOS",1501,,,52,,U
+20,q,13,del,Refractory anemia,1505,,,18,,U
+20,q,13,del,Refractory anemia with ringed sideroblasts,1507,,,14,,U
+20,q,13,del,Refractory anemia with excess of blasts (FAB),1509,,,20,,U
+20,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+20,q,13,del,Multiple myeloma,1702,,,8,,U
+20,q,13,del,Nonneoplastic hematologic disorder/lesion,9029,,,15,,U
+20,q,13,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+20,q,13,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+21,p,13,tas,Giant cell tumor of bone,8734,Skeleton,901.0,8,,B
+21,p,13,add,Multiple myeloma,1702,,,9,,U
+22,q,13,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,65,RBM15::MRTFA,B
+22,p,13,tas,Giant cell tumor of bone,8734,Skeleton,901.0,8,,B
+22,q,13,add,"Acute myeloid leukemia, NOS",1101,,,19,,U
+22,q,13,add,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,,U
+22,q,13,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,20,,U
+22,q,13,add,Multiple myeloma,1702,,,17,,U
+22,q,13,add,Chronic lymphocytic leukemia,1802,,,9,,U
+22,q,13,add,Follicular lymphoma,1810,,,9,,U
+22,q,13,add,Diffuse large B-cell lymphoma,1820,,,14,,U
+22,q,13,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,BCR+,U
+22,q,13,del,Multiple myeloma,1702,,,11,,U
+22,q,13,der,Acute megakaryoblastic leukemia (FAB type M7),1113,,,15,,U
+22,q,13,der,Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma,8128,Soft tissue,902.0,8,,U
+3,p,14,del,Adenocarcinoma,3111,Kidney,301.0,28,,U
+3,p,14,del,Adenocarcinoma,3111,Breast,401.0,8,,U
+3,p,14,del,Adenocarcinoma,3111,Breast,401.0,13,,U
+3,p,14,del,Adenocarcinoma,3111,Breast,401.0,9,,U
+3,p,14,del,"Undifferentiated carcinoma, small cell",3105,Lung,107.0,10,,U
+4,p,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+5,q,14,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+5,q,14,del,Refractory anemia,1505,,,8,,U
+5,q,14,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,14,del,Refractory anemia,1505,,,16,,U
+5,q,14,del,"Acute myeloid leukemia, NOS",1101,,,140,,U
+5,q,14,del,"Myelodysplastic syndrome, NOS",1501,,,16,,U
+5,q,14,del,Refractory anemia,1505,,,27,,U
+5,q,14,del,Refractory anemia with excess blasts-2,1521,,,8,,U
+6,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+11,q,14,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"MLLT10::EED,MLLT10::PICALM,PICALM::MLLT10,PICALM+",B
+11,q,14,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,B
+11,q,14,del,"Acute myeloid leukemia, NOS",1101,,,8,KMT2A+,U
+11,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,KMT2A+,U
+11,q,14,del,Chronic lymphocytic leukemia,1802,,,19,,U
+11,q,14,del,Adenocarcinoma,3111,Breast,401.0,8,INTS4::GAB2,U
+11,q,14,del,"Acute myeloid leukemia, NOS",1101,,,10,KMT2A+,U
+11,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,KMT2A+,U
+11,q,14,del,Chronic lymphocytic leukemia,1802,,,34,,U
+11,q,14,del,Chronic lymphocytic leukemia,1802,,,13,,U
+11,q,14,del,Chronic lymphocytic leukemia,1802,,,8,,U
+12,q,14,t,Lipoma,8004,Soft tissue,902.0,12,"HMGA2::PLPP3,HMGA2+",B
+12,q,14,t,Lipoma,8004,Soft tissue,902.0,11,,B
+12,q,14,t,Lipoma,8004,Soft tissue,902.0,11,"HMGA2::LPP,HMGA2+",B
+13,q,14,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,20,,B
+13,q,14,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,8,"PAX3::FOXO1,PAX3+",B
+13,q,14,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,9,,B
+13,q,14,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"ETV6::NUFIP1,ETV6+",B
+13,q,14,del,"Acute myeloid leukemia, NOS",1101,,,23,,U
+13,q,14,del,Acute megakaryoblastic leukemia (FAB type M7),1113,,,14,,U
+13,q,14,del,Idiopathic myelofibrosis,1403,,,13,,U
+13,q,14,del,"Myelodysplastic syndrome, NOS",1501,,,24,,U
+13,q,14,del,Refractory anemia,1505,,,10,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,29,,U
+13,q,14,del,Multiple myeloma,1702,,,17,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,88,,U
+13,q,14,del,Follicular lymphoma,1810,,,10,,U
+13,q,14,del,Diffuse large B-cell lymphoma,1820,,,17,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,18,,U
+13,q,14,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,20,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,55,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+13,q,14,del,Multiple myeloma,1702,,,20,,U
+13,q,14,del,Multiple myeloma,1702,,,20,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,39,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,39,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,112,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+13,q,14,del,Multiple myeloma,1702,,,9,,U
+13,q,14,del,Chronic lymphocytic leukemia,1802,,,70,,U
+13,q,14,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+5,p,15,add,"Acute myeloid leukemia, NOS",1101,,,12,,U
+5,p,15,add,Multiple myeloma,1702,,,11,,U
+5,p,15,add,Chronic lymphocytic leukemia,1802,,,10,,U
+5,p,15,add,Mantle cell lymphoma,1808,,,9,,U
+5,p,15,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+5,p,15,add,Adenocarcinoma,3111,Breast,401.0,8,,U
+5,q,15,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+5,q,15,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,15,del,"Acute myeloid leukemia, NOS",1101,,,37,,U
+5,q,15,del,"Myelodysplastic syndrome, NOS",1501,,,34,,U
+5,q,15,del,Refractory anemia,1505,,,15,,U
+5,q,15,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+5,q,15,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+6,q,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,29,,U
+6,q,15,del,Multiple myeloma,1702,,,14,,U
+6,q,15,del,"Mature B-cell neoplasm, NOS",1801,,,9,,U
+6,q,15,del,Chronic lymphocytic leukemia,1802,,,17,,U
+6,q,15,del,Follicular lymphoma,1810,,,10,,U
+6,q,15,del,Diffuse large B-cell lymphoma,1820,,,26,,U
+6,q,15,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,9,,U
+6,q,15,del,Adenocarcinoma,3111,Ovary,501.0,9,,U
+6,q,15,del,Mesothelioma,8810,Pleura,109.0,8,,U
+6,q,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,44,,U
+6,q,15,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+6,q,15,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,11,,U
+6,q,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+6,q,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,36,,U
+6,q,15,del,Chronic lymphocytic leukemia,1802,,,9,,U
+6,q,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+7,p,15,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,20,"TRB::HOXA10,TRB::HOXA11",B
+7,p,15,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,"HOXA10::TRB,TRB::HOXA10,TRB::HOXA9",B
+7,p,15,t,"Acute myeloid leukemia, NOS",1101,,,20,"NUP98::HOXA13,NUP98::HOXA9",B
+7,p,15,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,59,"NUP98::HOXA11,NUP98::HOXA13,NUP98::HOXA9",B
+7,p,15,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,17,"NUP98::HOXA11,NUP98::HOXA9",B
+7,p,15,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+7,p,15,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+7,p,15,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+7,p,15,add,Multiple myeloma,1702,,,13,,U
+7,p,15,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,36,,U
+10,p,15,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+10,p,15,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+11,p,15,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,B
+11,p,15,t,"Acute myeloid leukemia, NOS",1101,,,16,NUP98::NSD1,B
+11,p,15,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,"NSD1+,NUP98::NSD1,NUP98+,STIM1::NSD1",B
+11,p,15,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,"NSD1::NUP98,NUP98::NSD1",B
+11,p,15,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,25,"NSD1::NUP98,NUP98::NSD1",B
+11,p,15,t,Acute monoblastic leukemia (FAB type M5),1108,,,18,NUP98::NSD1,B
+11,p,15,t,"Acute myeloid leukemia, NOS",1101,,,20,"NUP98::HOXA13,NUP98::HOXA9",B
+11,p,15,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,59,"NUP98::HOXA11,NUP98::HOXA13,NUP98::HOXA9",B
+11,p,15,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,17,"NUP98::HOXA11,NUP98::HOXA9",B
+11,p,15,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,"LMO1::TRA,TRA+,TRD::LMO1",B
+11,p,15,add,"Acute myeloid leukemia, NOS",1101,,,37,NUP98+,U
+11,p,15,add,Acute erythroleukemia (FAB type M6),1112,,,9,,U
+11,p,15,add,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+11,p,15,add,"Myelodysplastic syndrome, NOS",1501,,,9,,U
+11,p,15,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+11,p,15,add,Multiple myeloma,1702,,,24,,U
+11,p,15,add,Chronic lymphocytic leukemia,1802,,,12,,U
+11,p,15,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+11,p,15,add,Adenocarcinoma,3111,Lung,107.0,8,,U
+11,p,15,add,Adenocarcinoma,3111,Breast,401.0,23,,U
+11,p,15,add,Adenocarcinoma,3111,Ovary,501.0,33,,U
+11,p,15,add,"Osteosarcoma, NOS",8710,Skeleton,901.0,13,,U
+11,p,15,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+12,q,15,t,Lipoma,8004,Soft tissue,902.0,10,,B
+12,q,15,t,Leiomyoma,8304,"Uterus, corpus",505.0,31,RAD51B+,B
+12,q,15,dup,Follicular lymphoma,1810,,,10,,U
+4,p,16,t,Multiple myeloma,1702,,,24,"FGFR3::IGH,IGH::FGFR3,IGH::NSD2,IGH+,NSD2::IGH",B
+4,p,16,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+4,p,16,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+4,p,16,add,Multiple myeloma,1702,,,12,,U
+4,p,16,add,Chronic lymphocytic leukemia,1802,,,13,,U
+4,p,16,add,Follicular lymphoma,1810,,,10,,U
+4,p,16,add,Diffuse large B-cell lymphoma,1820,,,11,,U
+6,q,16,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+6,q,16,del,Adenocarcinoma,3111,Breast,401.0,9,,U
+1,q,21,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,BCR::ABL1,B
+1,q,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,14,"KMT2A::MLLT11,KMT2A+",B
+1,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,B
+1,q,21,t,Adenocarcinoma,3111,Kidney,301.0,30,,B
+1,q,21,add,"Acute myeloid leukemia, NOS",1101,,,14,,U
+1,q,21,add,Multiple myeloma,1702,,,15,,U
+1,q,21,add,Chronic lymphocytic leukemia,1802,,,11,,U
+1,q,21,add,Follicular lymphoma,1810,,,10,,U
+1,q,21,add,Diffuse large B-cell lymphoma,1820,,,12,,U
+1,q,21,add,Leiomyosarcoma,8310,Soft tissue,902.0,8,,U
+1,q,21,add,Undifferentiated pleomorphic sarcoma,8541,Soft tissue,902.0,9,,U
+1,p,21,del,Multiple myeloma,1702,,,16,,U
+1,p,21,del,Diffuse large B-cell lymphoma,1820,,,10,,U
+1,p,21,del,Adenocarcinoma,3111,Breast,401.0,9,,U
+1,p,21,del,Multiple myeloma,1702,,,17,,U
+1,q,21,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+1,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+1,q,21,del,Multiple myeloma,1702,,,13,,U
+1,q,21,del,Adenocarcinoma,3111,Breast,401.0,8,,U
+1,q,21,del,Adenocarcinoma,3111,Ovary,501.0,16,,U
+1,q,21,der,Follicular lymphoma,1810,,,21,,U
+1,q,21,der,Wilms tumor,3135,Kidney,301.0,12,,U
+1,q,21,der,Ewing sarcoma,8740,Skeleton,901.0,11,,U
+1,q,21,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+1,q,21,dup,Burkitt lymphoma/leukemia,1822,,,8,,U
+1,q,21,dup,Burkitt lymphoma/leukemia,1822,,,10,,U
+1,q,21,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,,U
+1,q,21,dup,Follicular lymphoma,1810,,,9,,U
+1,q,21,dup,Diffuse large B-cell lymphoma,1820,,,11,,U
+1,q,21,dup,Burkitt lymphoma/leukemia,1822,,,24,,U
+1,q,21,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+1,q,21,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U
+2,p,21,t,"Acute myeloid leukemia, NOS",1101,,,9,,B
+2,p,21,t,"Acute myeloid leukemia, NOS",1101,,,10,KMT2A+,B
+3,q,21,inv,"Acute myeloid leukemia, NOS",1101,,,232,GATA2::MECOM,B
+3,q,21,inv,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,19,MECOM+,B
+3,q,21,inv,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,55,RPN1::MECOM,B
+3,q,21,inv,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,31,MECOM+,B
+3,q,21,inv,Acute myelomonocytic leukemia (FAB type M4),1107,,,27,MECOM+,B
+3,q,21,inv,Acute monoblastic leukemia (FAB type M5),1108,,,9,,B
+3,q,21,inv,Acute erythroleukemia (FAB type M6),1112,,,8,,B
+3,q,21,inv,Acute megakaryoblastic leukemia (FAB type M7),1113,,,25,MECOM+,B
+3,q,21,inv,"Chronic myeloid leukemia, t(9;22)",1202,,,56,"GATA2::MECOM,MECOM+",B
+3,q,21,inv,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,MECOM+,B
+3,q,21,inv,Chronic myelomonocytic leukemia,1302,,,8,,B
+3,q,21,inv,"Myelodysplastic syndrome, NOS",1501,,,36,"GATA2::MECOM,MECOM+",B
+3,q,21,inv,Refractory anemia with excess of blasts (FAB),1509,,,8,,B
+3,q,21,t,"Acute myeloid leukemia, NOS",1101,,,25,RPN1::PRDM16,B
+3,q,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,16,RPN1::PRDM16,B
+3,q,21,t,Chronic myelomonocytic leukemia,1302,,,8,RPN1::PRDM16,B
+3,q,21,t,"Acute myeloid leukemia, NOS",1101,,,100,"GATA2::MECOM,MECOM::RPN1,RPN1::MECOM",B
+3,q,21,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,12,RPN1::MECOM,B
+3,q,21,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,17,RPN1::MECOM,B
+3,q,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,18,,B
+3,q,21,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,12,,B
+3,q,21,t,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,B
+3,q,21,t,"Myelodysplastic syndrome, NOS",1501,,,18,GATA2::MECOM,B
+3,q,21,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,B
+3,p,21,t,Adenoma,3003,Salivary gland,210.0,77,PLAG1+,B
+3,p,21,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,BCR::ABL1,B
+3,p,21,add,"Acute myeloid leukemia, NOS",1101,,,16,,U
+3,p,21,add,Multiple myeloma,1702,,,8,,U
+3,p,21,add,Diffuse large B-cell lymphoma,1820,,,14,,U
+3,p,21,add,Adenocarcinoma,3111,Kidney,301.0,14,,U
+3,q,21,add,"Acute myeloid leukemia, NOS",1101,,,25,,U
+3,q,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+3,q,21,add,Diffuse large B-cell lymphoma,1820,,,16,,U
+3,p,21,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+3,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+3,p,21,del,Multiple myeloma,1702,,,17,,U
+3,p,21,del,Chronic lymphocytic leukemia,1802,,,9,,U
+3,p,21,del,Mantle cell lymphoma,1808,,,8,,U
+3,p,21,del,Follicular lymphoma,1810,,,8,,U
+3,p,21,del,Diffuse large B-cell lymphoma,1820,,,12,,U
+3,p,21,del,Adenocarcinoma,3111,Kidney,301.0,8,,U
+3,q,21,del,"Acute myeloid leukemia, NOS",1101,,,26,,U
+3,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+3,q,21,del,Multiple myeloma,1702,,,8,,U
+3,q,21,del,Diffuse large B-cell lymphoma,1820,,,8,,U
+3,q,21,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,11,,U
+3,q,21,del,Adenocarcinoma,3111,Ovary,501.0,17,,U
+4,q,21,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+4,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,B
+4,q,21,t,Bilineage or biphenotypic leukemia,1020,,,29,"KMT2A::AFF1,KMT2A+",B
+4,q,21,t,"Acute myeloid leukemia, NOS",1101,,,14,"AFF1::KMT2A,KMT2A::AFF1,KMT2A::SEPTIN11,KMT2A::USO1",B
+4,q,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,10,KMT2A::AFF1,B
+4,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,609,"AFF1::CENATAC,AFF1::KMT2A,KMT2A::AFF1,KMT2A::SEPTIN11,KMT2A+",B
+4,q,21,add,"Acute myeloid leukemia, NOS",1101,,,21,,U
+4,q,21,add,"Myelodysplastic syndrome, NOS",1501,,,12,,U
+4,q,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+4,q,21,add,Diffuse large B-cell lymphoma,1820,,,15,,U
+4,q,21,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+5,q,21,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+5,q,21,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+6,p,21,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,"BCR::ABL1,BCR+",B
+6,p,21,t,Leiomyoma,8304,"Uterus, corpus",505.0,8,,B
+6,p,21,t,Chondroid hamartoma,8619,Lung,107.0,11,"HMGA1+,RAD51B+",B
+6,p,21,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+6,p,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+6,p,21,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+6,q,21,add,Multiple myeloma,1702,,,20,,U
+6,q,21,add,Diffuse large B-cell lymphoma,1820,,,11,,U
+6,p,21,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+6,p,21,del,Diffuse large B-cell lymphoma,1820,,,10,ITPR3::PNPLA1,U
+6,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,49,,U
+6,q,21,del,Chronic lymphocytic leukemia,1802,,,9,,U
+6,q,21,del,Follicular lymphoma,1810,,,8,,U
+6,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,44,,U
+6,q,21,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+6,q,21,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,11,,U
+6,q,21,del,"Acute myeloid leukemia, NOS",1101,,,20,,U
+6,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,125,,U
+6,q,21,del,Multiple myeloma,1702,,,41,,U
+6,q,21,del,"Mature B-cell neoplasm, NOS",1801,,,22,,U
+6,q,21,del,Chronic lymphocytic leukemia,1802,,,53,,U
+6,q,21,del,Mantle cell lymphoma,1808,,,13,,U
+6,q,21,del,Follicular lymphoma,1810,,,31,,U
+6,q,21,del,Diffuse large B-cell lymphoma,1820,,,67,,U
+6,q,21,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,11,,U
+6,q,21,del,Adenocarcinoma,3111,Kidney,301.0,10,,U
+6,q,21,del,Adenocarcinoma,3111,Breast,401.0,12,,U
+6,q,21,del,Adenocarcinoma,3111,Ovary,501.0,23,,U
+6,q,21,del,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,9,,U
+6,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,34,,U
+6,q,21,del,Chronic lymphocytic leukemia,1802,,,10,,U
+6,q,21,del,Diffuse large B-cell lymphoma,1820,,,13,,U
+6,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,47,,U
+6,q,21,del,Chronic lymphocytic leukemia,1802,,,17,,U
+6,q,21,del,Diffuse large B-cell lymphoma,1820,,,11,,U
+6,p,21,der,Chondroid hamartoma,8619,Lung,107.0,9,,U
+7,q,21,t,Splenic marginal zone B-cell lymphoma,1816,,,8,IGK::CDK6,B
+7,q,21,del,"Acute myeloid leukemia, NOS",1101,,,19,,U
+7,q,21,del,Refractory anemia with excess of blasts (FAB),1509,,,9,,U
+7,q,21,del,Chronic lymphocytic leukemia,1802,,,10,,U
+7,q,21,del,Leiomyoma,8304,"Uterus, corpus",505.0,35,,U
+7,q,21,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+7,q,21,del,"Acute myeloid leukemia, NOS",1101,,,35,,U
+8,p,21,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+8,p,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+8,p,21,add,Multiple myeloma,1702,,,9,,U
+8,p,21,add,Diffuse large B-cell lymphoma,1820,,,15,,U
+8,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+8,p,21,del,Multiple myeloma,1702,,,10,,U
+8,p,21,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+9,p,21,t,"Acute myeloid leukemia, NOS",1101,,,24,"KMT2A::MLLT3,KMT2A+",B
+9,p,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,24,"KMT2A::MLLT3,KMT2A+",B
+9,p,21,t,Acute monoblastic leukemia (FAB type M5),1108,,,58,"KMT2A::MLLT3,KMT2A+",B
+9,p,21,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,33,"KMT2A::MLLT3,KMT2A+",B
+9,p,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,KMT2A::MLLT3,B
+9,p,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,23,,U
+9,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,159,,U
+9,p,21,del,Adenocarcinoma,3111,Kidney,301.0,8,,U
+9,p,21,del,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,15,,U
+9,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,113,,U
+9,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,113,,U
+9,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+9,p,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+9,q,21,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+9,q,21,del,"Acute myeloid leukemia, NOS",1101,,,19,,U
+11,q,21,t,"Acute myeloid leukemia, NOS",1101,,,8,,B
+11,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,B
+11,q,21,t,Extranodal marginal zone B-cell lymphoma,1812,Stomach,216.0,10,MALT1+,B
+11,q,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+11,q,21,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+11,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,26,,U
+11,q,21,del,Chronic lymphocytic leukemia,1802,,,26,,U
+11,q,21,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+11,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+11,q,21,del,Chronic lymphocytic leukemia,1802,,,32,,U
+11,q,21,del,Chronic lymphocytic leukemia,1802,,,13,,U
+11,q,21,del,Chronic lymphocytic leukemia,1802,,,15,,U
+12,q,21,dup,Follicular lymphoma,1810,,,9,,U
+13,q,21,del,Multiple myeloma,1702,,,9,,U
+13,q,21,del,Chronic lymphocytic leukemia,1802,,,8,,U
+13,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+13,q,21,del,Chronic lymphocytic leukemia,1802,,,31,,U
+13,q,21,del,Chronic lymphocytic leukemia,1802,,,112,,U
+17,q,21,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+17,q,21,t,"Acute myeloid leukemia, NOS",1101,,,11,"KMT2A::RARA,KMT2A+,ZBTB16::RARA",B
+17,q,21,t,Acute promyelocytic leukemia (FAB type M3),1106,,,31,ZBTB16::RARA,B
+17,q,21,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,13,KMT2A+,B
+17,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,B
+17,q,21,t,Acute promyelocytic leukemia (FAB type M3),1106,,,8,,B
+17,q,21,t,"Acute myeloid leukemia, NOS",1101,,,22,,B
+17,q,21,t,Acute promyelocytic leukemia (FAB type M3),1106,,,630,RARA+,B
+17,q,21,t,"Acute myeloid leukemia, NOS",1101,,,121,PML::RARA,B
+17,q,21,t,Acute promyelocytic leukemia (FAB type M3),1106,,,285,PML::RARA,B
+17,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,B
+17,q,21,der,Acute promyelocytic leukemia (FAB type M3),1106,,,35,,U
+17,q,21,der,"Acute myeloid leukemia, NOS",1101,,,14,,U
+17,q,21,der,Acute promyelocytic leukemia (FAB type M3),1106,,,43,,U
+17,q,21,der,Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma,8128,Soft tissue,902.0,8,,U
+17,q,21,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,30,,U
+17,q,21,ider,"Acute myeloid leukemia, NOS",1101,,,11,,U
+18,q,21,t,Follicular lymphoma,1810,,,9,"IGK::BCL2,IGK::KDSR",B
+18,q,21,t,Extranodal marginal zone B-cell lymphoma,1812,Stomach,216.0,10,MALT1+,B
+18,q,21,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,63,IGH::BCL2,B
+18,q,21,t,"Mature B-cell neoplasm, NOS",1801,,,161,"BCL2::IGH,IGH::BCL2,IGH::MALT1,IGH+",B
+18,q,21,t,Chronic lymphocytic leukemia,1802,,,139,"IGH::BCL2,IGH::MALT1",B
+18,q,21,t,Follicular lymphoma,1810,,,983,IGH::BCL2,B
+18,q,21,t,Diffuse large B-cell lymphoma,1820,,,295,"BCL2+,IGH::BCL2,IGH::MALT1",B
+18,q,21,t,Burkitt lymphoma/leukemia,1822,,,71,IGH::BCL2,B
+18,q,21,t,Chronic lymphocytic leukemia,1802,,,32,IGL::BCL2,B
+18,q,21,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+18,q,21,add,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+18,q,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+18,q,21,add,Follicular lymphoma,1810,,,12,,U
+18,q,21,add,Diffuse large B-cell lymphoma,1820,,,26,,U
+18,q,21,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+18,q,21,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+18,q,21,del,Follicular lymphoma,1810,,,24,,U
+18,q,21,del,Diffuse large B-cell lymphoma,1820,,,13,,U
+18,q,21,del,Adenocarcinoma,3111,Large intestine,227.0,13,,U
+18,q,21,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+18,q,21,der,"Mature B-cell neoplasm, NOS",1801,,,9,,U
+18,q,21,der,Follicular lymphoma,1810,,,16,,U
+18,q,21,der,Diffuse large B-cell lymphoma,1820,,,20,,U
+18,q,21,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+18,q,21,der,"Mature B-cell neoplasm, NOS",1801,,,25,,U
+18,q,21,der,Follicular lymphoma,1810,,,148,,U
+18,q,21,der,Diffuse large B-cell lymphoma,1820,,,32,,U
+18,q,21,der,Burkitt lymphoma/leukemia,1822,,,13,,U
+21,q,21,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+21,q,21,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+21,q,21,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+1,p,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+1,p,22,add,Multiple myeloma,1702,,,11,,U
+1,p,22,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+1,p,22,del,"Acute myeloid leukemia, NOS",1101,,,15,,U
+1,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+1,p,22,del,Multiple myeloma,1702,,,9,,U
+1,p,22,del,Follicular lymphoma,1810,,,9,,U
+1,p,22,del,Diffuse large B-cell lymphoma,1820,,,10,,U
+1,p,22,del,Adenocarcinoma,3111,Lung,107.0,8,,U
+1,p,22,del,Adenocarcinoma,3111,Large intestine,227.0,9,,U
+1,p,22,del,Adenocarcinoma,3111,Breast,401.0,21,,U
+1,p,22,del,Neuroblastoma,5213,Adrenal,703.0,8,,U
+1,p,22,del,Multiple myeloma,1702,,,15,,U
+1,p,22,del,Multiple myeloma,1702,,,14,,U
+1,p,22,del,Multiple myeloma,1702,,,10,,U
+5,q,22,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+5,q,22,del,"Acute myeloid leukemia, NOS",1101,,,33,,U
+5,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+5,q,22,del,Refractory anemia,1505,,,26,,U
+5,q,22,del,Refractory anemia with excess of blasts (FAB),1509,,,10,,U
+5,q,22,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+5,q,22,del,"Acute myeloid leukemia, NOS",1101,,,51,,U
+5,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,30,,U
+5,q,22,der,Adenocarcinoma,3111,Kidney,301.0,44,,U
+6,p,22,t,"Acute myeloid leukemia, NOS",1101,,,33,DEK::NUP214,B
+6,p,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,DEK::NUP214,B
+6,p,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,27,IGH::ID4,B
+6,p,22,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+6,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+6,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+6,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+6,q,22,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+7,p,22,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+7,p,22,add,"Acute myeloid leukemia, NOS",1101,,,14,,U
+7,p,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,29,,U
+7,p,22,add,Multiple myeloma,1702,,,32,,U
+7,p,22,add,Mantle cell lymphoma,1808,,,9,,U
+7,p,22,add,Diffuse large B-cell lymphoma,1820,,,17,,U
+7,p,22,add,Adenocarcinoma,3111,Breast,401.0,14,,U
+7,p,22,add,Adenocarcinoma,3111,Ovary,501.0,11,,U
+7,q,22,add,"Acute myeloid leukemia, NOS",1101,,,35,,U
+7,q,22,add,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+7,q,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+7,q,22,add,Diffuse large B-cell lymphoma,1820,,,13,,U
+7,q,22,del,"Acute myeloid leukemia, NOS",1101,,,107,,U
+7,q,22,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,,U
+7,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,31,,U
+7,q,22,del,Acute promyelocytic leukemia (FAB type M3),1106,,,8,,U
+7,q,22,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,23,,U
+7,q,22,del,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+7,q,22,del,Acute erythroleukemia (FAB type M6),1112,,,10,,U
+7,q,22,del,"Chronic myeloid leukemia, t(9;22)",1202,,,15,,U
+7,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,29,,U
+7,q,22,del,Refractory anemia,1505,,,16,,U
+7,q,22,del,Refractory anemia with excess of blasts (FAB),1509,,,26,,U
+7,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,33,,U
+7,q,22,del,Multiple myeloma,1702,,,11,,U
+7,q,22,del,Follicular lymphoma,1810,,,21,,U
+7,q,22,del,Diffuse large B-cell lymphoma,1820,,,15,,U
+7,q,22,del,Adenocarcinoma,3111,Ovary,501.0,9,,U
+7,q,22,del,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,9,,U
+7,q,22,del,Leiomyoma,8304,"Uterus, corpus",505.0,13,,U
+7,q,22,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+7,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,11,,U
+7,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,9,,U
+7,q,22,del,"Mature B-cell neoplasm, NOS",1801,,,9,,U
+7,q,22,del,Chronic lymphocytic leukemia,1802,,,12,,U
+7,q,22,del,Leiomyoma,8304,"Uterus, corpus",505.0,42,,U
+7,q,22,del,"Acute myeloid leukemia, NOS",1101,,,33,,U
+7,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,14,,U
+7,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+7,q,22,del,"Acute myeloid leukemia, NOS",1101,,,51,,U
+7,q,22,del,"Myelodysplastic syndrome, NOS",1501,,,17,,U
+8,p,22,t,"Myelodysplastic/myeloproliferative disease, NOS",1301,,,9,PCM1::JAK2,B
+8,q,22,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+8,q,22,t,Bilineage or biphenotypic leukemia,1020,,,10,,B
+8,q,22,t,"Acute myeloid leukemia, NOS",1101,,,520,"RUNX1::RUNX1T1,RUNX1::ZFPM2,RUNX1+,TRIQK::RUNX1",B
+8,q,22,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,99,RUNX1::RUNX1T1,B
+8,q,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,1171,RUNX1::RUNX1T1,B
+8,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,9,RUNX1::RUNX1T1,B
+8,q,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,65,RUNX1::RUNX1T1,B
+8,q,22,t,"Chronic myeloid leukemia, t(9;22)",1202,,,12,RUNX1::RUNX1T1,B
+8,q,22,t,"Myelodysplastic syndrome, NOS",1501,,,13,RUNX1+,B
+8,q,22,t,Refractory anemia with excess of blasts (FAB),1509,,,9,,B
+8,p,22,add,Multiple myeloma,1702,,,8,,U
+8,q,22,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+8,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+8,q,22,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,21,,U
+8,q,22,der,"Acute myeloid leukemia, NOS",1101,,,12,,U
+8,q,22,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,28,,U
+9,p,22,t,"Acute myeloid leukemia, NOS",1101,,,78,,B
+9,p,22,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,22,,B
+9,p,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,B
+9,p,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,38,,B
+9,p,22,t,Acute monoblastic leukemia (FAB type M5),1108,,,113,,B
+9,p,22,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,46,,B
+9,p,22,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,16,,B
+9,p,22,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,9,,B
+9,p,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,28,,B
+9,q,22,t,"Chondrosarcoma, myxoid",8625,Soft tissue,902.0,13,,B
+9,p,22,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+9,p,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,34,,U
+9,p,22,add,Multiple myeloma,1702,,,12,,U
+9,p,22,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+9,q,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+9,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,84,,U
+9,p,22,del,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,14,,U
+9,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,26,,U
+9,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+9,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+9,q,22,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+9,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,,U
+9,q,22,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+9,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,40,,U
+9,q,22,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,,U
+9,q,22,del,"Acute myeloid leukemia, NOS",1101,,,21,,U
+9,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,47,,U
+9,q,22,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,10,,U
+9,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+9,q,22,del,Diffuse large B-cell lymphoma,1820,,,12,TEX10::XPA,U
+9,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,U
+9,q,22,del,"Acute myeloid leukemia, NOS",1101,,,21,,U
+9,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,,U
+9,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+X,p,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,31,"IGH::CRLF2,P2RY8::IGH",B
+X,p,22,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+X,p,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,U
+X,p,22,add,Diffuse large B-cell lymphoma,1820,,,17,,U
+X,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,"CSF2RA::CRLF2,P2RY8::CRLF2",U
+X,p,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,"CSF2RA::CRLF2,P2RY8::CRLF2",U
+10,q,22,t,Leiomyoma,8304,"Uterus, corpus",505.0,8,,B
+10,q,22,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+10,q,22,t,Endometrial stromal sarcoma,8813,"Uterus, corpus",505.0,16,YWHAE::NUTM2B,B
+10,q,22,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+10,q,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+10,q,22,add,Follicular lymphoma,1810,,,10,,U
+10,q,22,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+10,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+10,q,22,del,Follicular lymphoma,1810,,,9,,U
+10,q,22,del,Follicular lymphoma,1810,,,28,,U
+10,q,22,del,Diffuse large B-cell lymphoma,1820,,,11,,U
+11,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+11,q,22,del,Chronic lymphocytic leukemia,1802,,,28,,U
+11,q,22,del,Chronic lymphocytic leukemia,1802,,,33,,U
+11,q,22,del,Chronic lymphocytic leukemia,1802,,,9,,U
+11,q,22,del,Chronic lymphocytic leukemia,1802,,,8,,U
+13,q,22,del,"Acute myeloid leukemia, NOS",1101,,,20,,U
+13,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,,U
+13,q,22,del,Multiple myeloma,1702,,,14,,U
+13,q,22,del,Chronic lymphocytic leukemia,1802,,,12,,U
+13,q,22,del,Chronic lymphocytic leukemia,1802,,,10,,U
+13,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+13,q,22,del,Multiple myeloma,1702,,,9,,U
+13,q,22,del,Chronic lymphocytic leukemia,1802,,,70,,U
+14,q,22,del,Chronic lymphocytic leukemia,1802,,,16,,U
+14,q,22,del,Adenocarcinoma,3111,Kidney,301.0,8,,U
+14,q,22,del,Multiple myeloma,1702,,,8,,U
+15,q,22,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+15,q,22,t,"Acute myeloid leukemia, NOS",1101,,,10,,B
+15,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,109,,B
+15,q,22,t,"Acute myeloid leukemia, NOS",1101,,,12,,B
+15,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,267,,B
+15,q,22,t,"Acute myeloid leukemia, NOS",1101,,,22,,B
+15,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,630,RARA+,B
+15,q,22,add,Multiple myeloma,1702,,,8,,U
+15,q,22,der,Acute promyelocytic leukemia (FAB type M3),1106,,,15,,U
+15,q,22,der,Acute promyelocytic leukemia (FAB type M3),1106,,,35,,U
+15,q,22,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,13,,U
+15,q,22,ider,Acute promyelocytic leukemia (FAB type M3),1106,,,30,,U
+16,q,22,inv,"Acute myeloid leukemia, NOS",1101,,,296,CBFB::MYH11,B
+16,q,22,inv,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,32,CBFB::MYH11,B
+16,q,22,inv,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,82,CBFB::MYH11,B
+16,q,22,inv,Acute myelomonocytic leukemia (FAB type M4),1107,,,668,"CBFB::MYH11,MYH11+",B
+16,q,22,inv,Acute monoblastic leukemia (FAB type M5),1108,,,15,CBFB::MYH11,B
+16,q,22,inv,"Chronic myeloid leukemia, t(9;22)",1202,,,37,CBFB::MYH11,B
+16,q,22,t,"Acute myeloid leukemia, NOS",1101,,,15,CBFB::MYH11,B
+16,q,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,38,"CBFB::MYH11,MYH11::CBFB",B
+16,q,22,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+16,q,22,add,Multiple myeloma,1702,,,10,,U
+16,q,22,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+16,q,22,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,,U
+16,q,22,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,25,,U
+16,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,CTCF::PARD6A,U
+16,q,22,del,Multiple myeloma,1702,,,21,,U
+16,q,22,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+17,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,12,,B
+17,q,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,TCF3::HLF,B
+21,q,22,t,"Acute myeloid leukemia, NOS",1101,,,41,RUNX1::MECOM,B
+21,q,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,13,"RUNX1::MECOM,RUNX1+",B
+21,q,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,12,"RUNX1::MECOM,RUNX1+",B
+21,q,22,t,"Chronic myeloid leukemia, t(9;22)",1202,,,66,RUNX1::MECOM,B
+21,q,22,t,"Myelodysplastic syndrome, NOS",1501,,,16,RUNX1::MECOM,B
+21,q,22,t,Bilineage or biphenotypic leukemia,1020,,,10,,B
+21,q,22,t,"Acute myeloid leukemia, NOS",1101,,,520,"RUNX1::RUNX1T1,RUNX1::ZFPM2,RUNX1+,TRIQK::RUNX1",B
+21,q,22,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,99,RUNX1::RUNX1T1,B
+21,q,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,1171,RUNX1::RUNX1T1,B
+21,q,22,t,Acute promyelocytic leukemia (FAB type M3),1106,,,9,RUNX1::RUNX1T1,B
+21,q,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,65,RUNX1::RUNX1T1,B
+21,q,22,t,"Chronic myeloid leukemia, t(9;22)",1202,,,12,RUNX1::RUNX1T1,B
+21,q,22,t,"Myelodysplastic syndrome, NOS",1501,,,13,RUNX1+,B
+21,q,22,t,Refractory anemia with excess of blasts (FAB),1509,,,9,,B
+21,q,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,RUNX1::ARHGDIB,B
+21,q,22,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,447,"ETS2::ETV6,ETV6::RUNX1,PDE9A::VWF,RUNX1::ATF7IP,RUNX1::DDX47,RUNX1::ETV6",B
+21,q,22,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,19,"ERG+,FUS::ERG",B
+21,q,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,"ERG+,FUS::ERG",B
+21,q,22,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,FUS::ERG,B
+21,q,22,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,FUS::ERG,B
+21,q,22,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,"RUNX1::CBFA2T3,RUNX1+",B
+21,q,22,add,"Acute myeloid leukemia, NOS",1101,,,57,,U
+21,q,22,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,13,,U
+21,q,22,add,Acute erythroleukemia (FAB type M6),1112,,,9,,U
+21,q,22,add,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+21,q,22,add,"Myelodysplastic syndrome, NOS",1501,,,19,,U
+21,q,22,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,146,,U
+21,q,22,add,Multiple myeloma,1702,,,17,,U
+21,q,22,add,Diffuse large B-cell lymphoma,1820,,,13,,U
+21,q,22,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+21,q,22,del,"Acute myeloid leukemia, NOS",1101,,,14,,U
+21,q,22,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+21,q,22,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,21,,U
+21,q,22,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+21,q,22,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+21,q,22,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+21,q,22,der,"Acute myeloid leukemia, NOS",1101,,,12,,U
+21,q,22,der,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,28,,U
+21,q,22,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,63,,U
+21,q,22,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+21,q,22,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+21,q,22,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,44,,U
+21,q,22,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,U
+21,q,22,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,U
+21,q,22,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+1,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,204,"TCF3::PBX1,TCF3+",B
+1,q,23,del,Adenocarcinoma,3111,Ovary,501.0,8,,U
+1,q,23,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,313,,U
+1,q,23,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+2,p,23,t,Diffuse large B-cell lymphoma,1820,,,8,"NPM1::ALK,SQSTM1::ALK",B
+2,p,23,t,"Anaplastic large cell lymphoma, systemic type",1922,,,70,NPM1::ALK,B
+2,p,23,add,"Acute myeloid leukemia, NOS",1101,,,8,,U
+2,p,23,add,Diffuse large B-cell lymphoma,1820,,,11,,U
+2,p,23,del,Diffuse large B-cell lymphoma,1820,,,8,,U
+3,p,23,inv,"Acute myeloid leukemia, NOS",1101,,,12,,B
+3,p,23,del,"Undifferentiated carcinoma, small cell",3105,Lung,107.0,10,,U
+5,q,23,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+6,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"AHI1::TRB,TRB::AHI1,TRB::MYB",B
+6,p,23,t,"Acute myeloid leukemia, NOS",1101,,,42,,B
+6,p,23,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,10,,B
+6,p,23,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,37,,B
+6,p,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,24,,B
+6,p,23,add,"Acute myeloid leukemia, NOS",1101,,,11,,U
+6,q,23,add,Multiple myeloma,1702,,,12,,U
+6,p,23,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+6,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,30,,U
+6,q,23,del,Multiple myeloma,1702,,,10,,U
+6,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,36,,U
+6,q,23,del,Chronic lymphocytic leukemia,1802,,,9,,U
+6,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,34,,U
+6,q,23,del,Chronic lymphocytic leukemia,1802,,,10,,U
+6,q,23,del,Diffuse large B-cell lymphoma,1820,,,13,,U
+6,q,23,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+6,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,36,,U
+6,q,23,del,Multiple myeloma,1702,,,24,,U
+6,q,23,del,Chronic lymphocytic leukemia,1802,,,17,,U
+6,q,23,del,Follicular lymphoma,1810,,,20,,U
+6,q,23,del,Diffuse large B-cell lymphoma,1820,,,20,LIN28B::STX7,U
+6,q,23,del,Mycosis fungoides/Sézary syndrome,1906,,,9,,U
+6,q,23,del,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,8,,U
+6,q,23,del,Adenocarcinoma,3111,Breast,401.0,13,,U
+6,q,23,del,Adenocarcinoma,3111,Ovary,501.0,9,,U
+6,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+8,p,23,add,"Acute myeloid leukemia, NOS",1101,,,16,,U
+8,p,23,add,Multiple myeloma,1702,,,12,,U
+8,p,23,add,Diffuse large B-cell lymphoma,1820,,,12,,U
+9,p,23,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,"EPS15::KMT2A,KMT2A::EPS15,KMT2A+",B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,14,"KMT2A::MLLT11,KMT2A+",B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,10,KMT2A+,B
+11,q,23,t,Bilineage or biphenotypic leukemia,1020,,,29,"KMT2A::AFF1,KMT2A+",B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,14,"AFF1::KMT2A,KMT2A::AFF1,KMT2A::SEPTIN11,KMT2A::USO1",B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,10,KMT2A::AFF1,B
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,609,"AFF1::CENATAC,AFF1::KMT2A,KMT2A::AFF1,KMT2A::SEPTIN11,KMT2A+",B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,33,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,KMT2A::AFDN,B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,30,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia (FAB type M5),1108,,,17,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,14,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,15,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,"KMT2A::AFDN,KMT2A+",B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,24,"KMT2A::MLLT3,KMT2A+",B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,24,"KMT2A::MLLT3,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia (FAB type M5),1108,,,58,"KMT2A::MLLT3,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,33,"KMT2A::MLLT3,KMT2A+",B
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,KMT2A::MLLT3,B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,78,,B
+11,q,23,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,22,,B
+11,q,23,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,38,,B
+11,q,23,t,Acute monoblastic leukemia (FAB type M5),1108,,,113,,B
+11,q,23,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,46,,B
+11,q,23,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,16,,B
+11,q,23,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,9,,B
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,28,,B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,11,"KMT2A::RARA,KMT2A+,ZBTB16::RARA",B
+11,q,23,t,Acute promyelocytic leukemia (FAB type M3),1106,,,31,ZBTB16::RARA,B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,13,KMT2A+,B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,9,"KMT2A::SEPTIN9,KMT2A+",B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,11,"KMT2A::SEPTIN9,KMT2A+",B
+11,q,23,t,Bilineage or biphenotypic leukemia,1020,,,18,"KMT2A::ELL,KMT2A::MLLT1",B
+11,q,23,t,"Acute myeloid leukemia, NOS",1101,,,72,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::MYO1F,KMT2A::SH3GL1,KMT2A::VAV1,KMT2A+,WDR18::H2AX",B
+11,q,23,t,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,8,"KMT2A::MLLT1,KMT2A+",B
+11,q,23,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,23,KMT2A+,B
+11,q,23,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,26,"KMT2A::ELL,KMT2A::MLLT1,KMT2A+",B
+11,q,23,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,43,"KMT2A::ELL,KMT2A::MLLT1,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia (FAB type M5),1108,,,30,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::MYO1F",B
+11,q,23,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,28,"KMT2A::MLLT1,KMT2A+",B
+11,q,23,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,19,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::SUGP2",B
+11,q,23,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,166,"KMT2A::ELL,KMT2A::MLLT1,KMT2A::RANBP3,KMT2A+",B
+11,q,23,t,Ewing sarcoma,8740,Skeleton,901.0,8,,B
+11,q,23,add,"Acute myeloid leukemia, NOS",1101,,,49,"+KMT2A,KMT2A+",U
+11,q,23,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,10,KMT2A+,U
+11,q,23,add,Acute myelomonocytic leukemia (FAB type M4),1107,,,12,,U
+11,q,23,add,Acute monoblastic leukemia (FAB type M5),1108,,,9,KMT2A+,U
+11,q,23,add,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+11,q,23,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,KMT2A+,U
+11,q,23,add,Multiple myeloma,1702,,,26,,U
+11,q,23,add,"Mature B-cell neoplasm, NOS",1801,,,10,,U
+11,q,23,add,Follicular lymphoma,1810,,,8,,U
+11,q,23,add,Diffuse large B-cell lymphoma,1820,,,29,,U
+11,q,23,add,Burkitt lymphoma/leukemia,1822,,,15,,U
+11,q,23,add,Adenocarcinoma,3111,Ovary,501.0,13,,U
+11,q,23,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+11,q,23,del,Acute monoblastic leukemia (FAB type M5),1108,,,8,,U
+11,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+11,q,23,del,Chronic lymphocytic leukemia,1802,,,31,,U
+11,q,23,del,"Acute myeloid leukemia, NOS",1101,,,10,KMT2A+,U
+11,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,KMT2A+,U
+11,q,23,del,Chronic lymphocytic leukemia,1802,,,34,,U
+11,q,23,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+11,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+11,q,23,del,Chronic lymphocytic leukemia,1802,,,32,,U
+11,q,23,del,Chronic lymphocytic leukemia,1802,,,33,,U
+11,q,23,del,"Acute myeloid leukemia, NOS",1101,,,42,"KMT2A+,KMT2A::DCPS,KMT2A::TIRAP",U
+11,q,23,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,8,KMT2A+,U
+11,q,23,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,11,"KMT2A+,KMT2A::CBL",U
+11,q,23,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,10,KMT2A+,U
+11,q,23,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,24,"KMT2A+,KMT2A::ARHGEF12",U
+11,q,23,del,Acute monoblastic leukemia (FAB type M5),1108,,,29,KMT2A+,U
+11,q,23,del,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,8,KMT2A::ARHGEF12,U
+11,q,23,del,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+11,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,127,"KMT2A+,KMT2A::BCL9L",U
+11,q,23,del,Multiple myeloma,1702,,,16,,U
+11,q,23,del,Chronic lymphocytic leukemia,1802,,,22,,U
+11,q,23,del,Diffuse large B-cell lymphoma,1820,,,11,,U
+11,q,23,del,Adenocarcinoma,3111,Breast,401.0,15,,U
+11,q,23,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,KMT2A+,U
+11,q,23,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+11,q,23,hsr,"Acute myeloid leukemia, NOS",1101,,,16,+KMT2A,U
+11,q,23,hsr,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+16,q,23,t,Multiple myeloma,1702,,,9,"IGH::MAF,IGH::WWOX,IGH+",B
+17,q,23,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+18,q,23,add,"Acute myeloid leukemia, NOS",1101,,,14,,U
+18,q,23,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+18,q,23,add,Multiple myeloma,1702,,,23,,U
+18,q,23,add,Chronic lymphocytic leukemia,1802,,,8,,U
+18,q,23,add,Mantle cell lymphoma,1808,,,8,,U
+18,q,23,add,Follicular lymphoma,1810,,,11,,U
+18,q,23,add,Diffuse large B-cell lymphoma,1820,,,19,,U
+6,q,24,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,23,,U
+6,q,24,del,"Carcinoma, NOS",3102,Breast,401.0,9,,U
+6,q,24,del,Adenocarcinoma,3111,Ovary,501.0,10,,U
+8,q,24,t,Multiple myeloma,1702,,,8,,B
+8,q,24,t,"Mature B-cell neoplasm, NOS",1801,,,8,MYC+,B
+8,q,24,t,Burkitt lymphoma/leukemia,1822,,,10,IGK::MYC,B
+8,q,24,t,Follicular lymphoma,1810,,,8,,B
+8,q,24,t,Diffuse large B-cell lymphoma,1820,,,8,MYC+,B
+8,q,24,t,Burkitt lymphoma/leukemia,1822,,,22,MYC+,B
+8,q,24,t,"Acute myeloid leukemia, NOS",1101,,,18,MECOM+,B
+8,q,24,t,Refractory anemia with excess blasts-1,1519,,,8,,B
+8,q,24,t,"Mature B-cell neoplasm, NOS",1801,,,9,,B
+8,q,24,t,Diffuse large B-cell lymphoma,1820,,,12,"MYC::ZBTB5,MYC::ZCCHC7",B
+8,q,24,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,"TRA::MYC,TRD::MYC,TRD+",B
+8,q,24,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,77,"IGH::MYC,IGH+,MYC+",B
+8,q,24,t,Multiple myeloma,1702,,,32,"IGH::MYC,IGH::RPL8,IGH+,PLEC::IGH",B
+8,q,24,t,"Mature B-cell neoplasm, NOS",1801,,,87,IGH::MYC,B
+8,q,24,t,Chronic lymphocytic leukemia,1802,,,40,IGH::MYC,B
+8,q,24,t,B-prolymphocytic leukemia,1804,,,8,IGH::MYC,B
+8,q,24,t,Mantle cell lymphoma,1808,,,10,IGH::MYC,B
+8,q,24,t,Follicular lymphoma,1810,,,19,IGH::MYC,B
+8,q,24,t,Diffuse large B-cell lymphoma,1820,,,141,IGH::MYC,B
+8,q,24,t,Burkitt lymphoma/leukemia,1822,,,589,"IGH::MYC,MYC+",B
+8,q,24,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,55,,B
+8,q,24,t,Multiple myeloma,1702,,,36,"IGL::MYC,MYC+",B
+8,q,24,t,"Mature B-cell neoplasm, NOS",1801,,,27,MYC+,B
+8,q,24,t,Chronic lymphocytic leukemia,1802,,,13,MYC+,B
+8,q,24,t,Diffuse large B-cell lymphoma,1820,,,29,IGL::MYC,B
+8,q,24,t,Burkitt lymphoma/leukemia,1822,,,88,"IGL::MYC,IGL+,MYC+",B
+8,q,24,add,"Acute myeloid leukemia, NOS",1101,,,27,,U
+8,q,24,add,"Myelodysplastic syndrome, NOS",1501,,,12,,U
+8,q,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+8,q,24,add,Multiple myeloma,1702,,,45,,U
+8,q,24,add,"Mature B-cell neoplasm, NOS",1801,,,8,,U
+8,q,24,add,Chronic lymphocytic leukemia,1802,,,10,,U
+8,q,24,add,Mantle cell lymphoma,1808,,,10,MYC+,U
+8,q,24,add,Follicular lymphoma,1810,,,11,,U
+8,q,24,add,Diffuse large B-cell lymphoma,1820,,,39,MYC+,U
+8,q,24,add,Burkitt lymphoma/leukemia,1822,,,9,,U
+8,q,24,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+8,q,24,der,"Mature B-cell neoplasm, NOS",1801,,,10,,U
+8,q,24,der,Follicular lymphoma,1810,,,8,,U
+8,q,24,der,Diffuse large B-cell lymphoma,1820,,,13,,U
+8,q,24,der,Burkitt lymphoma/leukemia,1822,,,15,,U
+9,p,24,t,"Myelodysplastic/myeloproliferative disease, NOS",1301,,,9,PCM1::JAK2,B
+9,p,24,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+9,p,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,25,,U
+9,p,24,add,Multiple myeloma,1702,,,16,,U
+9,p,24,add,Diffuse large B-cell lymphoma,1820,,,22,,U
+9,p,24,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+9,p,24,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+10,q,24,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,"TLX1::TRB,TRB::TLX1,TRB+",B
+10,q,24,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,73,"TLX1::TRA,TRA::TLX1,TRA+,TRD::TLX1",B
+10,q,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+10,q,24,del,Follicular lymphoma,1810,,,28,,U
+10,q,24,del,Diffuse large B-cell lymphoma,1820,,,11,,U
+10,q,24,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,,U
+10,q,24,del,Chronic lymphocytic leukemia,1802,,,10,NFKB2+,U
+10,q,24,del,Mantle cell lymphoma,1808,,,9,,U
+10,q,24,del,Follicular lymphoma,1810,,,14,,U
+10,q,24,del,Diffuse large B-cell lymphoma,1820,,,13,,U
+10,q,24,del,Adenocarcinoma,3111,Prostate,602.0,8,,U
+11,q,24,t,Ewing sarcoma,8740,Skeleton,901.0,236,"EWSR1::FLI1,EWSR1+",B
+11,q,24,t,Ewing sarcoma,8740,Soft tissue,902.0,27,"EWSR1::FLI1,EWSR1+",B
+11,q,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+11,q,24,del,Chronic lymphocytic leukemia,1802,,,13,,U
+11,q,24,del,Chronic lymphocytic leukemia,1802,,,13,,U
+11,q,24,del,Chronic lymphocytic leukemia,1802,,,9,,U
+12,q,24,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,"BCR::ABL1,BCR+",B
+12,q,24,add,"Acute myeloid leukemia, NOS",1101,,,19,,U
+12,q,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,28,,U
+12,q,24,add,Multiple myeloma,1702,,,24,,U
+12,q,24,add,Chronic lymphocytic leukemia,1802,,,17,,U
+12,q,24,add,Follicular lymphoma,1810,,,15,,U
+12,q,24,add,Diffuse large B-cell lymphoma,1820,,,26,,U
+12,q,24,add,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,8,,U
+12,q,24,add,Adenocarcinoma,3111,Breast,401.0,25,,U
+12,q,24,dup,Follicular lymphoma,1810,,,9,,U
+12,q,24,dup,Follicular lymphoma,1810,,,10,,U
+14,q,24,t,Chondroid hamartoma,8619,Lung,107.0,11,"HMGA1+,RAD51B+",B
+14,q,24,t,Leiomyoma,8304,"Uterus, corpus",505.0,31,RAD51B+,B
+14,q,24,del,Multiple myeloma,1702,,,10,IGH+,U
+14,q,24,del,Chronic lymphocytic leukemia,1802,,,27,IGH+,U
+14,q,24,del,Diffuse large B-cell lymphoma,1820,,,13,"IGH+,ZFP36L1::IGH",U
+14,q,24,del,Chronic lymphocytic leukemia,1802,,,24,IGH+,U
+14,q,24,der,Chondroid hamartoma,8619,Lung,107.0,9,,U
+15,q,24,t,"Acute myeloid leukemia, NOS",1101,,,121,PML::RARA,B
+15,q,24,t,Acute promyelocytic leukemia (FAB type M3),1106,,,285,PML::RARA,B
+15,q,24,der,"Acute myeloid leukemia, NOS",1101,,,14,,U
+15,q,24,der,Acute promyelocytic leukemia (FAB type M3),1106,,,43,,U
+15,q,24,ider,"Acute myeloid leukemia, NOS",1101,,,11,,U
+16,q,24,inv,Acute megakaryoblastic leukemia (FAB type M7),1113,,,8,CBFA2T3::GLIS2,B
+16,q,24,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,"BCR::ABL1,BCR+",B
+16,q,24,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,"RUNX1::CBFA2T3,RUNX1+",B
+16,q,24,add,"Acute myeloid leukemia, NOS",1101,,,18,,U
+16,q,24,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,,U
+16,q,24,add,Multiple myeloma,1702,,,22,,U
+16,q,24,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+16,q,24,add,Adenocarcinoma,3111,Ovary,501.0,8,,U
+1,q,25,del,Adenocarcinoma,3111,Ovary,501.0,8,,U
+1,q,25,dup,Burkitt lymphoma/leukemia,1822,,,8,,U
+2,p,25,add,Multiple myeloma,1702,,,11,,U
+2,p,25,add,Follicular lymphoma,1810,,,10,,U
+2,p,25,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+3,q,25,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,B
+6,p,25,t,Chronic lymphocytic leukemia,1802,,,9,,B
+6,q,25,t,Bilineage or biphenotypic leukemia,1020,,,9,,B
+6,p,25,add,"Acute myeloid leukemia, NOS",1101,,,12,,U
+6,p,25,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+6,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+6,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+6,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,47,,U
+6,q,25,del,Chronic lymphocytic leukemia,1802,,,17,,U
+6,q,25,del,Diffuse large B-cell lymphoma,1820,,,11,,U
+6,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+6,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+6,q,25,del,Multiple myeloma,1702,,,12,,U
+6,q,25,del,Chronic lymphocytic leukemia,1802,,,14,,U
+6,q,25,del,"Benign epithelial tumor, NOS",3001,Breast,401.0,18,,U
+6,q,25,del,Adenoma,3003,Ovary,501.0,10,,U
+6,q,25,del,"Carcinoma, NOS",3102,Breast,401.0,8,,U
+6,q,25,del,Adenocarcinoma,3111,Ovary,501.0,11,,U
+11,q,25,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+11,q,25,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+11,q,25,add,Multiple myeloma,1702,,,10,,U
+11,q,25,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+11,q,25,del,Chronic lymphocytic leukemia,1802,,,8,,U
+11,q,25,del,Chronic lymphocytic leukemia,1802,,,15,,U
+11,q,25,del,Chronic lymphocytic leukemia,1802,,,8,,U
+11,q,25,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,KMT2A+,U
+17,q,25,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+17,q,25,t,"Acute myeloid leukemia, NOS",1101,,,9,"KMT2A::SEPTIN9,KMT2A+",B
+17,q,25,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,11,"KMT2A::SEPTIN9,KMT2A+",B
+17,q,25,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,10,BCR+,B
+17,q,25,t,Adenocarcinoma,3111,Kidney,301.0,15,"ASPSCR1::TFE3,TFE3::ASPSCR1",B
+17,q,25,add,"Acute myeloid leukemia, NOS",1101,,,10,,U
+17,q,25,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+17,q,25,add,Multiple myeloma,1702,,,25,,U
+17,q,25,add,Chronic lymphocytic leukemia,1802,,,10,,U
+17,q,25,add,Diffuse large B-cell lymphoma,1820,,,24,,U
+17,q,25,add,Adenocarcinoma,3111,Stomach,216.0,8,,U
+3,q,26,inv,"Acute myeloid leukemia, NOS",1101,,,12,,B
+3,q,26,inv,"Acute myeloid leukemia, NOS",1101,,,232,GATA2::MECOM,B
+3,q,26,inv,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,19,MECOM+,B
+3,q,26,inv,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,55,RPN1::MECOM,B
+3,q,26,inv,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,31,MECOM+,B
+3,q,26,inv,Acute myelomonocytic leukemia (FAB type M4),1107,,,27,MECOM+,B
+3,q,26,inv,Acute monoblastic leukemia (FAB type M5),1108,,,9,,B
+3,q,26,inv,Acute erythroleukemia (FAB type M6),1112,,,8,,B
+3,q,26,inv,Acute megakaryoblastic leukemia (FAB type M7),1113,,,25,MECOM+,B
+3,q,26,inv,"Chronic myeloid leukemia, t(9;22)",1202,,,56,"GATA2::MECOM,MECOM+",B
+3,q,26,inv,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,MECOM+,B
+3,q,26,inv,Chronic myelomonocytic leukemia,1302,,,8,,B
+3,q,26,inv,"Myelodysplastic syndrome, NOS",1501,,,36,"GATA2::MECOM,MECOM+",B
+3,q,26,inv,Refractory anemia with excess of blasts (FAB),1509,,,8,,B
+3,q,26,t,"Acute myeloid leukemia, NOS",1101,,,9,,B
+3,q,26,t,"Acute myeloid leukemia, NOS",1101,,,100,"GATA2::MECOM,MECOM::RPN1,RPN1::MECOM",B
+3,q,26,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,12,RPN1::MECOM,B
+3,q,26,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,17,RPN1::MECOM,B
+3,q,26,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,18,,B
+3,q,26,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,12,,B
+3,q,26,t,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,B
+3,q,26,t,"Myelodysplastic syndrome, NOS",1501,,,18,GATA2::MECOM,B
+3,q,26,t,"Acute myeloid leukemia, NOS",1101,,,18,MECOM+,B
+3,q,26,t,Refractory anemia with excess blasts-1,1519,,,8,,B
+3,q,26,t,"Acute myeloid leukemia, NOS",1101,,,43,ETV6::MECOM,B
+3,q,26,t,"Myelodysplastic syndrome, NOS",1501,,,8,,B
+3,q,26,t,"Acute myeloid leukemia, NOS",1101,,,41,RUNX1::MECOM,B
+3,q,26,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,13,"RUNX1::MECOM,RUNX1+",B
+3,q,26,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,12,"RUNX1::MECOM,RUNX1+",B
+3,q,26,t,"Chronic myeloid leukemia, t(9;22)",1202,,,66,RUNX1::MECOM,B
+3,q,26,t,"Myelodysplastic syndrome, NOS",1501,,,16,RUNX1::MECOM,B
+3,q,26,add,"Acute myeloid leukemia, NOS",1101,,,17,,U
+3,q,26,add,Multiple myeloma,1702,,,8,,U
+6,q,26,del,Adenoma,3003,Ovary,501.0,11,,U
+6,q,26,del,Adenocarcinoma,3111,Ovary,501.0,8,,U
+10,q,26,add,Multiple myeloma,1702,,,15,,U
+15,q,26,t,Acute promyelocytic leukemia (FAB type M3),1106,,,12,,B
+15,q,26,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,U
+15,q,26,add,Multiple myeloma,1702,,,13,,U
+15,q,26,add,Diffuse large B-cell lymphoma,1820,,,10,,U
+3,q,27,t,Lipoma,8004,Soft tissue,902.0,11,,B
+3,q,27,t,Lipoma,8004,Soft tissue,902.0,10,,B
+3,q,27,t,"Mature B-cell neoplasm, NOS",1801,,,12,"BCL6::IGH,IGH::BCL6",B
+3,q,27,t,Follicular lymphoma,1810,,,50,"BCL6+,IGH::BCL6",B
+3,q,27,t,Diffuse large B-cell lymphoma,1820,,,72,"BCL6+,HSP90AA1::BCL6,IGH::BCL6,IGH+",B
+3,q,27,t,"Mature B-cell neoplasm, NOS",1801,,,10,"IGL::BCL6,IGL+",B
+3,q,27,t,Follicular lymphoma,1810,,,11,"BCL6+,IGL::BCL6",B
+3,q,27,t,Diffuse large B-cell lymphoma,1820,,,25,"BCL6+,IGL::BCL6",B
+3,q,27,add,"Acute myeloid leukemia, NOS",1101,,,11,,U
+3,q,27,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+3,q,27,add,Multiple myeloma,1702,,,14,,U
+3,q,27,add,Follicular lymphoma,1810,,,20,BCL6+,U
+3,q,27,add,Diffuse large B-cell lymphoma,1820,,,36,BCL6+,U
+3,q,27,del,Diffuse large B-cell lymphoma,1820,,,11,"BCL6+,LPP::BCL6",U
+6,q,27,t,"Acute myeloid leukemia, NOS",1101,,,33,"KMT2A::AFDN,KMT2A+",B
+6,q,27,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,13,KMT2A::AFDN,B
+6,q,27,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,30,"KMT2A::AFDN,KMT2A+",B
+6,q,27,t,Acute monoblastic leukemia (FAB type M5),1108,,,17,"KMT2A::AFDN,KMT2A+",B
+6,q,27,t,Acute monoblastic leukemia without differentiation (FAB type M5a),1109,,,14,"KMT2A::AFDN,KMT2A+",B
+6,q,27,t,Acute monoblastic leukemia with differentiation (FAB type M5b),1110,,,15,"KMT2A::AFDN,KMT2A+",B
+6,q,27,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,"KMT2A::AFDN,KMT2A+",B
+6,q,27,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+6,q,27,add,Multiple myeloma,1702,,,13,,U
+6,q,27,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+3,q,28,t,Lipoma,8004,Soft tissue,902.0,11,"HMGA2::LPP,HMGA2+",B
+X,q,28,t,T-prolymphocytic leukemia,1902,,,15,"TRA::MTCP1,TRA+",B
+3,q,29,add,Multiple myeloma,1702,,,13,,U
+3,q,29,add,Mantle cell lymphoma,1808,,,8,,U
+3,q,29,add,Follicular lymphoma,1810,,,9,,U
+3,q,29,add,Diffuse large B-cell lymphoma,1820,,,17,,U
+1,p,31,del,Multiple myeloma,1702,,,9,,U
+1,p,31,del,Multiple myeloma,1702,,,12,,U
+1,p,31,del,Multiple myeloma,1702,,,12,,U
+1,p,31,del,Multiple myeloma,1702,,,10,,U
+1,p,31,del,Multiple myeloma,1702,,,17,,U
+1,q,31,dup,Burkitt lymphoma/leukemia,1822,,,10,,U
+2,q,31,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+2,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+4,q,31,add,Multiple myeloma,1702,,,8,,U
+4,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+4,q,31,del,Multiple myeloma,1702,,,11,,U
+4,q,31,del,Diffuse large B-cell lymphoma,1820,,,12,,U
+5,q,31,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,B
+5,q,31,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,"IGH::IL3,IL3::IGH",B
+5,q,31,add,"Acute myeloid leukemia, NOS",1101,,,12,,U
+5,q,31,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+5,q,31,add,Multiple myeloma,1702,,,8,,U
+5,q,31,del,"Acute myeloid leukemia, NOS",1101,,,56,ARHGAP26+,U
+5,q,31,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,10,,U
+5,q,31,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,12,,U
+5,q,31,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,CSF2+,U
+5,q,31,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,18,,U
+5,q,31,del,"Myelodysplastic syndrome, NOS",1501,,,26,,U
+5,q,31,del,Refractory anemia,1505,,,14,,U
+5,q,31,del,Refractory anemia with excess of blasts (FAB),1509,,,12,,U
+5,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+5,q,31,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,31,del,"Acute myeloid leukemia, NOS",1101,,,21,ARHGAP26+,U
+5,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,19,,U
+5,q,31,del,"Acute myeloid leukemia, NOS",1101,,,13,,U
+5,q,31,del,"Acute myeloid leukemia, NOS",1101,,,34,,U
+5,q,31,del,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+5,q,31,del,Refractory anemia,1505,,,11,,U
+5,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+7,q,31,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+7,q,31,del,Chronic lymphocytic leukemia,1802,,,10,,U
+7,q,31,del,Leiomyoma,8304,"Uterus, corpus",505.0,35,,U
+7,q,31,del,"Acute myeloid leukemia, NOS",1101,,,21,,U
+7,q,31,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,,U
+7,q,31,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,,U
+7,q,31,del,"Myelodysplastic syndrome, NOS",1501,,,11,,U
+7,q,31,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+7,q,31,del,Splenic marginal zone B-cell lymphoma,1816,,,9,,U
+7,q,31,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+1,p,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,22,"EPS15::KMT2A,KMT2A::EPS15,KMT2A+",B
+1,p,32,t,Lipoma,8004,Soft tissue,902.0,12,"HMGA2::PLPP3,HMGA2+",B
+1,p,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,TRA+,B
+1,p,32,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+1,q,32,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,23,,U
+1,q,32,add,Multiple myeloma,1702,,,9,,U
+1,q,32,add,Diffuse large B-cell lymphoma,1820,,,11,,U
+1,p,32,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+1,p,32,del,Follicular lymphoma,1810,,,8,,U
+1,p,32,del,Adenocarcinoma,3111,Breast,401.0,8,,U
+1,p,32,del,Adenocarcinoma,3111,Ovary,501.0,8,,U
+1,p,32,del,Multiple myeloma,1702,,,15,,U
+1,p,32,del,Multiple myeloma,1702,,,10,,U
+1,q,32,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+1,q,32,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,32,,U
+1,q,32,del,Multiple myeloma,1702,,,12,,U
+1,q,32,del,Chronic lymphocytic leukemia,1802,,,8,,U
+1,q,32,del,Diffuse large B-cell lymphoma,1820,,,9,,U
+1,q,32,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,,U
+1,q,32,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,52,,U
+1,q,32,dup,Follicular lymphoma,1810,,,9,,U
+1,q,32,dup,Diffuse large B-cell lymphoma,1820,,,11,,U
+1,q,32,dup,Burkitt lymphoma/leukemia,1822,,,24,,U
+1,q,32,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+5,q,32,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,32,del,"Acute myeloid leukemia, NOS",1101,,,10,,U
+5,q,32,del,Refractory anemia,1505,,,8,,U
+7,q,32,add,"Acute myeloid leukemia, NOS",1101,,,18,,U
+7,q,32,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+7,q,32,add,Diffuse large B-cell lymphoma,1820,,,15,,U
+7,q,32,del,"Acute myeloid leukemia, NOS",1101,,,22,,U
+7,q,32,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,11,,U
+7,q,32,del,"Myelodysplastic syndrome, NOS",1501,,,9,,U
+7,q,32,del,"Mature B-cell neoplasm, NOS",1801,,,9,,U
+7,q,32,del,Chronic lymphocytic leukemia,1802,,,12,,U
+7,q,32,del,Leiomyoma,8304,"Uterus, corpus",505.0,42,,U
+7,q,32,del,"Acute myeloid leukemia, NOS",1101,,,23,,U
+7,q,32,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,21,,U
+7,q,32,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,9,,U
+7,q,32,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,21,,U
+7,q,32,del,Multiple myeloma,1702,,,9,,U
+7,q,32,del,Chronic lymphocytic leukemia,1802,,,13,,U
+7,q,32,del,Splenic marginal zone B-cell lymphoma,1816,,,12,,U
+7,q,32,del,Diffuse large B-cell lymphoma,1820,,,15,,U
+7,q,32,del,Adenocarcinoma,3111,Breast,401.0,12,,U
+7,q,32,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+9,q,32,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,U
+13,q,32,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+13,q,32,add,Burkitt lymphoma/leukemia,1822,,,8,,U
+13,q,32,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+14,q,32,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,39,"BCL11B::TRD,IGH::CEBPE,IGH::TRA,IGH::TRD,TCL1A+",B
+14,q,32,inv,T-prolymphocytic leukemia,1902,,,68,"TCL1A+,TRA+",B
+14,q,32,inv,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,10,TRA+,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,IGH+,B
+14,q,32,t,Chronic lymphocytic leukemia,1802,,,17,IGH+,B
+14,q,32,t,"Mature B-cell neoplasm, NOS",1801,,,12,"BCL6::IGH,IGH::BCL6",B
+14,q,32,t,Follicular lymphoma,1810,,,50,"BCL6+,IGH::BCL6",B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,72,"BCL6+,HSP90AA1::BCL6,IGH::BCL6,IGH+",B
+14,q,32,t,Multiple myeloma,1702,,,24,"FGFR3::IGH,IGH::FGFR3,IGH::NSD2,IGH+,NSD2::IGH",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,"IGH::IL3,IL3::IGH",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,"BCL11B::NKX2-5,BCL11B::TLX3,CREBRF::AK7,LMAN2::PAPOLA,NKX2-5::BCL11B,TLX3::BCL11B",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,27,IGH::ID4,B
+14,q,32,t,Bilineage or biphenotypic leukemia,1020,,,9,,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,70,"IGH::CEBPD,IGH+",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,77,"IGH::MYC,IGH+,MYC+",B
+14,q,32,t,Multiple myeloma,1702,,,32,"IGH::MYC,IGH::RPL8,IGH+,PLEC::IGH",B
+14,q,32,t,"Mature B-cell neoplasm, NOS",1801,,,87,IGH::MYC,B
+14,q,32,t,Chronic lymphocytic leukemia,1802,,,40,IGH::MYC,B
+14,q,32,t,B-prolymphocytic leukemia,1804,,,8,IGH::MYC,B
+14,q,32,t,Mantle cell lymphoma,1808,,,10,IGH::MYC,B
+14,q,32,t,Follicular lymphoma,1810,,,19,IGH::MYC,B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,141,IGH::MYC,B
+14,q,32,t,Burkitt lymphoma/leukemia,1822,,,589,"IGH::MYC,MYC+",B
+14,q,32,t,Splenic marginal zone B-cell lymphoma,1816,,,8,IGH::PAX5,B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,16,"IGH::PAX5,IGH+",B
+14,q,32,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+14,q,32,t,Multiple myeloma,1702,,,154,"CCND1+,IGH::CCND1,IGH::MRPL21",B
+14,q,32,t,Plasma cell leukemia,1708,,,24,"IGH::CCND1,IGH+",B
+14,q,32,t,"Mature B-cell neoplasm, NOS",1801,,,21,"CCND1+,IGH::CCND1,IGH+",B
+14,q,32,t,Chronic lymphocytic leukemia,1802,,,90,"IGH::CCND1,IGH+",B
+14,q,32,t,B-prolymphocytic leukemia,1804,,,16,IGH::CCND1,B
+14,q,32,t,Mantle cell lymphoma,1808,,,468,IGH::CCND1,B
+14,q,32,t,Splenic marginal zone B-cell lymphoma,1816,,,15,CCND1+,B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,12,IGH::CCND1,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,11,"CEBPE::IGH,IGH::CEBPE,IGH+,TCL1A+,TRA+",B
+14,q,32,t,Multiple myeloma,1702,,,9,"IGH::MAF,IGH::WWOX,IGH+",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,63,IGH::BCL2,B
+14,q,32,t,"Mature B-cell neoplasm, NOS",1801,,,161,"BCL2::IGH,IGH::BCL2,IGH::MALT1,IGH+",B
+14,q,32,t,Chronic lymphocytic leukemia,1802,,,139,"IGH::BCL2,IGH::MALT1",B
+14,q,32,t,Follicular lymphoma,1810,,,983,IGH::BCL2,B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,295,"BCL2+,IGH::BCL2,IGH::MALT1",B
+14,q,32,t,Burkitt lymphoma/leukemia,1822,,,71,IGH::BCL2,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,IGH::EPOR,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,32,"IGH::CEBPA,IGH::CEBPG",B
+14,q,32,t,"Mature B-cell neoplasm, NOS",1801,,,13,"IGH::BCL3,IGH+",B
+14,q,32,t,Chronic lymphocytic leukemia,1802,,,181,"IGH::BCL3,IGH+",B
+14,q,32,t,Nodal marginal zone B-cell lymphoma,1814,,,53,IGH::BCL3,B
+14,q,32,t,Diffuse large B-cell lymphoma,1820,,,16,"IGH::BCL3,IGH::NECTIN2,IGH::SPIB",B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,IGH::CEBPB,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,B
+14,q,32,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,31,"IGH::CRLF2,P2RY8::IGH",B
+14,q,32,add,"Acute myeloid leukemia, NOS",1101,,,25,,U
+14,q,32,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,104,,U
+14,q,32,add,Multiple myeloma,1702,,,131,,U
+14,q,32,add,Plasma cell leukemia,1708,,,15,,U
+14,q,32,add,"Mature B-cell neoplasm, NOS",1801,,,36,IGH+,U
+14,q,32,add,Chronic lymphocytic leukemia,1802,,,53,,U
+14,q,32,add,B-prolymphocytic leukemia,1804,,,8,,U
+14,q,32,add,Mantle cell lymphoma,1808,,,15,,U
+14,q,32,add,Follicular lymphoma,1810,,,49,,U
+14,q,32,add,Diffuse large B-cell lymphoma,1820,,,107,IGH+,U
+14,q,32,add,Burkitt lymphoma/leukemia,1822,,,35,,U
+14,q,32,add,"Mature T- and NK-cell neoplasm, NOS",1901,,,9,,U
+14,q,32,add,Adult T-cell lymphoma/leukemia (HTLV-1+),1926,,,23,,U
+14,q,32,del,Multiple myeloma,1702,,,8,,U
+14,q,32,del,Chronic lymphocytic leukemia,1802,,,24,IGH+,U
+14,q,32,del,Multiple myeloma,1702,,,10,IGH+,U
+14,q,32,der,Mantle cell lymphoma,1808,,,30,,U
+14,q,32,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,58,,U
+14,q,32,der,Multiple myeloma,1702,,,19,,U
+14,q,32,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+14,q,32,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+14,q,32,der,"Mature B-cell neoplasm, NOS",1801,,,10,,U
+14,q,32,der,Follicular lymphoma,1810,,,8,,U
+14,q,32,der,Diffuse large B-cell lymphoma,1820,,,13,,U
+14,q,32,der,Burkitt lymphoma/leukemia,1822,,,15,,U
+14,q,32,der,Multiple myeloma,1702,,,54,,U
+14,q,32,der,Plasma cell leukemia,1708,,,10,,U
+14,q,32,der,Chronic lymphocytic leukemia,1802,,,10,,U
+14,q,32,der,Mantle cell lymphoma,1808,,,33,,U
+14,q,32,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+14,q,32,der,"Mature B-cell neoplasm, NOS",1801,,,9,,U
+14,q,32,der,Follicular lymphoma,1810,,,16,,U
+14,q,32,der,Diffuse large B-cell lymphoma,1820,,,20,,U
+14,q,32,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+14,q,32,der,"Mature B-cell neoplasm, NOS",1801,,,25,,U
+14,q,32,der,Follicular lymphoma,1810,,,148,,U
+14,q,32,der,Diffuse large B-cell lymphoma,1820,,,32,,U
+14,q,32,der,Burkitt lymphoma/leukemia,1822,,,13,,U
+5,q,33,t,"Acute myeloid leukemia, NOS",1101,,,9,,B
+5,q,33,t,Chronic myelomonocytic leukemia,1302,,,12,,B
+5,q,33,t,"Chronic myeloproliferative disorder, NOS",1401,,,8,ETV6+,B
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,27,,U
+5,q,33,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,225,,U
+5,q,33,del,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,14,,U
+5,q,33,del,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,43,,U
+5,q,33,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,48,,U
+5,q,33,del,Acute myelomonocytic leukemia (FAB type M4),1107,,,22,,U
+5,q,33,del,Acute monoblastic leukemia (FAB type M5),1108,,,9,,U
+5,q,33,del,Acute erythroleukemia (FAB type M6),1112,,,30,,U
+5,q,33,del,"Myelodysplastic syndrome, NOS",1501,,,112,,U
+5,q,33,del,Refractory anemia,1505,,,126,,U
+5,q,33,del,Refractory anemia with ringed sideroblasts,1507,,,13,,U
+5,q,33,del,Refractory anemia with excess of blasts (FAB),1509,,,68,,U
+5,q,33,del,Refractory anemia with excess blasts-1,1519,,,10,,U
+5,q,33,del,Refractory anemia with excess blasts-2,1521,,,25,,U
+5,q,33,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+5,q,33,del,Refractory anemia,1505,,,16,,U
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,37,,U
+5,q,33,del,"Myelodysplastic syndrome, NOS",1501,,,34,,U
+5,q,33,del,Refractory anemia,1505,,,15,,U
+5,q,33,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,33,,U
+5,q,33,del,"Myelodysplastic syndrome, NOS",1501,,,8,,U
+5,q,33,del,Refractory anemia,1505,,,26,,U
+5,q,33,del,Refractory anemia with excess of blasts (FAB),1509,,,10,,U
+5,q,33,del,"Acute myeloid leukemia, NOS",1101,,,13,,U
+5,q,33,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,EBF1::PDGFRB,U
+5,q,33,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,EBF1::PDGFRB,U
+9,q,33,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+1,p,34,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,B
+1,p,34,t,Adenocarcinoma,3111,Kidney,301.0,10,"SFPQ::TFE3,TFE3::SFPQ",B
+5,q,34,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,9,,B
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,13,,U
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,35,,U
+5,q,34,del,Refractory anemia,1505,,,8,,U
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,140,,U
+5,q,34,del,"Myelodysplastic syndrome, NOS",1501,,,16,,U
+5,q,34,del,Refractory anemia,1505,,,27,,U
+5,q,34,del,Refractory anemia with excess blasts-2,1521,,,8,,U
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,38,,U
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+5,q,34,del,"Acute myeloid leukemia, NOS",1101,,,9,,U
+7,q,34,inv,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,20,"TRB::HOXA10,TRB::HOXA11",B
+7,q,34,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,"AHI1::TRB,TRB::AHI1,TRB::MYB",B
+7,q,34,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,"HOXA10::TRB,TRB::HOXA10,TRB::HOXA9",B
+7,q,34,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,"TLX1::TRB,TRB::TLX1,TRB+",B
+7,q,34,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,14,TRB+,U
+7,q,34,del,"Acute myeloid leukemia, NOS",1101,,,33,,U
+7,q,34,del,"Myelodysplastic syndrome, NOS",1501,,,14,,U
+7,q,34,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+7,q,34,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+9,q,34,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,BCR::ABL1,B
+9,q,34,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,15,"BCR::ABL1,BCR+",B
+9,q,34,ins,"Chronic myeloid leukemia, aberrant translocation",1203,,,15,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,29,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,11,"BCR::ABL1,BCR+",B
+9,q,34,t,"Acute myeloid leukemia, NOS",1101,,,33,DEK::NUP214,B
+9,q,34,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,12,DEK::NUP214,B
+9,q,34,t,"Acute myeloid leukemia, NOS",1101,,,42,,B
+9,q,34,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,10,,B
+9,q,34,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,37,,B
+9,q,34,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,24,,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,16,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+9,q,34,t,Bilineage or biphenotypic leukemia,1020,,,103,BCR::ABL1,B
+9,q,34,t,"Acute myeloid leukemia, NOS",1101,,,117,"BCR::ABL1,BCR+",B
+9,q,34,t,Acute myeloblastic leukemia with minimal differentiation (FAB type M0),1102,,,14,BCR::ABL1,B
+9,q,34,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,52,"BCR::ABL1,BCR+",B
+9,q,34,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,60,"BCR::ABL1,BCR+",B
+9,q,34,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,34,"ABL1+,BCR::ABL1,BCR+",B
+9,q,34,t,Acute erythroleukemia (FAB type M6),1112,,,10,BCR::ABL1,B
+9,q,34,t,Acute megakaryoblastic leukemia (FAB type M7),1113,,,21,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, t(9;22)",1202,,,2463,"ABL1+,BCR::ABL1,BCR+,NUP214::XKR3",B
+9,q,34,t,"Myelodysplastic syndrome, NOS",1501,,,9,BCR::ABL1,B
+9,q,34,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,1085,"BCR::ABL1,BCR+,PRRC2B::BCR",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,21,"BCR::ABL1,BCR+,GSTP1+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,14,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,"BCR::ABL1,BCR+",B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,9,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,8,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+9,q,34,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,12,BCR::ABL1,B
+9,q,34,add,"Acute myeloid leukemia, NOS",1101,,,22,,U
+9,q,34,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,10,,U
+9,q,34,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,40,,U
+9,q,34,add,Multiple myeloma,1702,,,19,,U
+9,q,34,add,"Mature B-cell neoplasm, NOS",1801,,,11,,U
+9,q,34,add,Chronic lymphocytic leukemia,1802,,,17,,U
+9,q,34,add,Follicular lymphoma,1810,,,13,,U
+9,q,34,add,Diffuse large B-cell lymphoma,1820,,,13,,U
+9,q,34,add,Adenocarcinoma,3111,Kidney,301.0,8,,U
+9,q,34,add,Adenocarcinoma,3111,Ovary,501.0,11,,U
+9,q,34,del,"Acute myeloid leukemia, NOS",1101,,,19,,U
+9,q,34,del,"Acute myeloid leukemia, NOS",1101,,,21,,U
+9,q,34,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,15,,U
+9,q,34,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,8,,U
+9,q,34,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,SET::NUP214,U
+9,q,34,der,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+9,q,34,der,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+9,q,34,der,"Chronic myeloid leukemia, t(9;22)",1202,,,9,,U
+9,q,34,der,"Chronic myeloid leukemia, t(9;22)",1202,,,76,,U
+9,q,34,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,17,,U
+9,q,34,der,"Acute myeloid leukemia, NOS",1101,,,8,,U
+9,q,34,der,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,11,,U
+9,q,34,der,"Chronic myeloid leukemia, t(9;22)",1202,,,661,,U
+9,q,34,der,"Chronic myeloid leukemia, aberrant translocation",1203,,,64,,U
+9,q,34,der,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,289,BCR::RALGPS1::ABL1,U
+9,q,34,ider,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,9,,U
+9,q,34,ider,"Chronic myeloid leukemia, t(9;22)",1202,,,43,,U
+13,q,34,add,"Acute myeloid leukemia, NOS",1101,,,9,,U
+13,q,34,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,15,,U
+13,q,34,add,Chronic lymphocytic leukemia,1802,,,12,,U
+13,q,34,add,Follicular lymphoma,1810,,,9,,U
+13,q,34,add,Diffuse large B-cell lymphoma,1820,,,25,,U
+13,q,34,add,Burkitt lymphoma/leukemia,1822,,,23,,U
+1,p,35,t,Chronic lymphocytic leukemia,1802,,,9,,B
+2,q,35,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,20,,B
+4,q,35,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+4,q,35,add,Multiple myeloma,1702,,,10,,U
+4,q,35,add,Chronic lymphocytic leukemia,1802,,,8,,U
+4,q,35,add,Follicular lymphoma,1810,,,13,,U
+4,q,35,add,Diffuse large B-cell lymphoma,1820,,,12,,U
+5,q,35,t,Diffuse large B-cell lymphoma,1820,,,8,"NPM1::ALK,SQSTM1::ALK",B
+5,q,35,t,"Anaplastic large cell lymphoma, systemic type",1922,,,70,NPM1::ALK,B
+5,q,35,t,"Acute myeloid leukemia, NOS",1101,,,16,NUP98::NSD1,B
+5,q,35,t,Acute myeloblastic leukemia without maturation (FAB type M1),1103,,,8,"NSD1+,NUP98::NSD1,NUP98+,STIM1::NSD1",B
+5,q,35,t,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,"NSD1::NUP98,NUP98::NSD1",B
+5,q,35,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,25,"NSD1::NUP98,NUP98::NSD1",B
+5,q,35,t,Acute monoblastic leukemia (FAB type M5),1108,,,18,NUP98::NSD1,B
+5,q,35,t,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,"BCL11B::NKX2-5,BCL11B::TLX3,CREBRF::AK7,LMAN2::PAPOLA,NKX2-5::BCL11B,TLX3::BCL11B",B
+5,q,35,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,18,,U
+5,q,35,add,Multiple myeloma,1702,,,19,,U
+5,q,35,add,Diffuse large B-cell lymphoma,1820,,,18,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+5,q,35,del,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,8,,U
+5,q,35,del,Refractory anemia with excess of blasts (FAB),1509,,,8,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,8,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,51,,U
+5,q,35,del,"Myelodysplastic syndrome, NOS",1501,,,30,,U
+5,q,35,del,"Acute myeloid leukemia, NOS",1101,,,34,,U
+5,q,35,del,"Myelodysplastic syndrome, NOS",1501,,,10,,U
+5,q,35,del,Refractory anemia,1505,,,11,,U
+5,q,35,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+7,q,35,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+1,p,36,t,"Acute myeloid leukemia, NOS",1101,,,25,RPN1::PRDM16,B
+1,p,36,t,Acute myelomonocytic leukemia (FAB type M4),1107,,,16,RPN1::PRDM16,B
+1,p,36,t,Chronic myelomonocytic leukemia,1302,,,8,RPN1::PRDM16,B
+1,p,36,t,"Chronic myeloid leukemia, aberrant translocation",1203,,,29,"BCR::ABL1,BCR+",B
+1,p,36,add,"Acute myeloid leukemia, NOS",1101,,,33,,U
+1,p,36,add,Acute myeloblastic leukemia with maturation (FAB type M2),1104,,,14,,U
+1,p,36,add,"Chronic myeloid leukemia, t(9;22)",1202,,,8,,U
+1,p,36,add,"Myelodysplastic syndrome, NOS",1501,,,12,,U
+1,p,36,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,64,,U
+1,p,36,add,Multiple myeloma,1702,,,11,,U
+1,p,36,add,"Mature B-cell neoplasm, NOS",1801,,,17,,U
+1,p,36,add,Chronic lymphocytic leukemia,1802,,,13,,U
+1,p,36,add,Mantle cell lymphoma,1808,,,12,,U
+1,p,36,add,Follicular lymphoma,1810,,,79,,U
+1,p,36,add,Diffuse large B-cell lymphoma,1820,,,43,,U
+1,p,36,add,Burkitt lymphoma/leukemia,1822,,,9,,U
+1,p,36,add,"Mature T- and NK-cell neoplasm, NOS",1901,,,8,,U
+1,p,36,add,Mycosis fungoides/Sézary syndrome,1906,,,9,,U
+1,p,36,add,"Peripheral T-cell lymphoma, unspecified",1908,,,8,,U
+1,p,36,add,Adenocarcinoma,3111,Lung,107.0,8,,U
+1,p,36,add,Adenocarcinoma,3111,Kidney,301.0,12,,U
+1,p,36,add,Adenocarcinoma,3111,Breast,401.0,21,,U
+1,p,36,add,Adenocarcinoma,3111,Ovary,501.0,28,,U
+1,p,36,add,Teratoma (mature and immature),3903,Testis,601.0,18,,U
+1,p,36,add,Combined germ cell tumors,3905,Testis,601.0,8,,U
+1,p,36,add,"Astrocytoma, grade III-IV/Glioblastoma",5104,Brain,801.0,8,,U
+1,p,36,der,Follicular lymphoma,1810,,,21,,U
+2,q,36,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,8,"PAX3::FOXO1,PAX3+",B
+7,q,36,t,"Acute myeloid leukemia, NOS",1101,,,19,"ETV6::LMBR1,ETV6+,MNX1::ETV6,NOM1::ETV6",B
+7,q,36,add,"Acute myeloid leukemia, NOS",1101,,,13,,U
+7,q,36,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,10,,U
+7,q,36,add,Multiple myeloma,1702,,,16,,U
+7,q,36,add,Diffuse large B-cell lymphoma,1820,,,13,,U
+7,q,36,del,"Acute myeloid leukemia, NOS",1101,,,16,,U
+7,q,36,del,"Acute myeloid leukemia, NOS",1101,,,35,,U
+7,q,36,del,"Acute myeloid leukemia, NOS",1101,,,51,,U
+7,q,36,del,"Myelodysplastic syndrome, NOS",1501,,,17,,U
+7,q,36,del,"Acute myeloid leukemia, NOS",1101,,,12,,U
+7,q,36,del,"Acute myeloid leukemia, NOS",1101,,,11,,U
+2,q,37,t,Alveolar rhabdomyosarcoma,8322,Soft tissue,902.0,9,,B
+2,q,37,add,"Acute myeloid leukemia, NOS",1101,,,17,,U
+2,q,37,add,Multiple myeloma,1702,,,15,,U
+2,q,37,add,Diffuse large B-cell lymphoma,1820,,,16,,U
+2,q,37,add,Adenocarcinoma,3111,Breast,401.0,10,,U
+2,q,37,add,Adenocarcinoma,3111,Ovary,501.0,9,,U
+1,q,42,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,12,,U
+1,q,42,add,Diffuse large B-cell lymphoma,1820,,,9,,U
+1,q,42,del,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+1,q,42,del,Diffuse large B-cell lymphoma,1820,,,11,ESRRG::ACBD3,U
+1,q,42,del,Adenocarcinoma,3111,Breast,401.0,16,,U
+1,q,42,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,16,,U
+1,q,44,add,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,13,,U
+1,q,44,add,Diffuse large B-cell lymphoma,1820,,,8,,U
+1,q,44,dup,Acute lymphoblastic leukemia/lymphoblastic lymphoma,1602,,,24,,U

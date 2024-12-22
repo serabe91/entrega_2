@@ -1,0 +1,190 @@
+1010: Acute undifferentiated leukemia
+1020: Bilineage or biphenotypic leukemia
+1101: Acute myeloid leukemia, NOS
+1102: Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+1103: Acute myeloblastic leukemia without maturation (FAB type M1)
+1104: Acute myeloblastic leukemia with maturation (FAB type M2)
+1106: Acute promyelocytic leukemia (FAB type M3)
+1107: Acute myelomonocytic leukemia (FAB type M4)
+1108: Acute monoblastic leukemia (FAB type M5)
+1109: Acute monoblastic leukemia without differentiation (FAB type M5a)
+1110: Acute monoblastic leukemia with differentiation (FAB type M5b)
+1112: Acute erythroleukemia (FAB type M6)
+1113: Acute megakaryoblastic leukemia (FAB type M7)
+1115: Acute basophilic leukemia
+1117: Acute eosinophilic leukemia
+1199: Acute myeloid leukemia, special type
+1202: Chronic myeloid leukemia, t(9;22)
+1203: Chronic myeloid leukemia, aberrant translocation
+1301: Myelodysplastic/myeloproliferative disease, NOS
+1302: Chronic myelomonocytic leukemia
+1303: Atypical chronic myeloid leukemia
+1304: Juvenile myelomonocytic leukemia
+1401: Chronic myeloproliferative disorder, NOS
+1402: Polycythemia vera
+1403: Idiopathic myelofibrosis
+1404: Essential thrombocythemia
+1406: Chronic eosinophilic leukemia/hypereosinophilic syndrome
+1499: Chronic myeloproliferative disorder, special type
+1501: Myelodysplastic syndrome, NOS
+1505: Refractory anemia
+1507: Refractory anemia with ringed sideroblasts
+1509: Refractory anemia with excess of blasts (FAB)
+1515: Refractory cytopenia with multilineage dysplasia
+1517: Refractory cytopenia with multilineage dysplasia and ringed sideroblasts
+1519: Refractory anemia with excess blasts-1
+1521: Refractory anemia with excess blasts-2
+1599: Myelodysplastic syndrome, special type
+1602: Acute lymphoblastic leukemia/lymphoblastic lymphoma
+1702: Multiple myeloma
+1704: Monoclonal gammopathy of undetermined significance
+1708: Plasma cell leukemia
+1710: Waldenström macroglobulinemia
+1801: Mature B-cell neoplasm, NOS
+1802: Chronic lymphocytic leukemia
+1804: B-prolymphocytic leukemia
+1806: Lymphoplasmacytic lymphoma
+1808: Mantle cell lymphoma
+1810: Follicular lymphoma
+1812: Extranodal marginal zone B-cell lymphoma
+1814: Nodal marginal zone B-cell lymphoma
+1816: Splenic marginal zone B-cell lymphoma
+1818: Hairy cell leukemia
+1820: Diffuse large B-cell lymphoma
+1822: Burkitt lymphoma/leukemia
+1830: Intravascular large B-cell lymphoma
+1835: Primary effusion lymphoma
+1840: Mediastinal large B-cell lymphoma
+1845: B-cell lymphoma associated with hemophagocytic syndrome
+1899: Mature B-cell neoplasm, special type
+1901: Mature T- and NK-cell neoplasm, NOS
+1902: T-prolymphocytic leukemia
+1904: T-cell granular lymphocytic leukemia
+1906: Mycosis fungoides/Sézary syndrome
+1908: Peripheral T-cell lymphoma, unspecified
+1910: Angioimmunoblastic T-cell lymphoma
+1912: Extranodal NK/T-cell lymphoma
+1914: Aggressive NK-cell leukemia
+1918: Hepatosplenic T-cell lymphoma
+1922: Anaplastic large cell lymphoma, systemic type
+1926: Adult T-cell lymphoma/leukemia (HTLV-1+)
+2001: Hodgkin disease, NOS
+2002: Hodgkin disease, lymphocyte predominance
+2003: Hodgkin disease, mixed cellularity
+2004: Hodgkin disease, lymphocyte depletion
+2005: Hodgkin disease, nodular sclerosis
+2410: Dendritic cell neoplasm
+2415: Histiocytic sarcoma/malignant histiocytosis
+2430: Mastocytosis
+2440: Post-transplant lymphoproliferative disorder
+3001: Benign epithelial tumor, NOS
+3003: Adenoma
+3031: Oncocytoma
+3055: Phyllodes tumor, benign
+3099: Benign epithelial tumor, special type
+3102: Carcinoma, NOS
+3103: Undifferentiated carcinoma
+3104: Undifferentiated carcinoma, large cell
+3105: Undifferentiated carcinoma, small cell
+3107: Metaplastic carcinoma
+3111: Adenocarcinoma
+3113: Adenoid cystic carcinoma
+3115: Mucoepidermoid carcinoma
+3119: Adenosquamous carcinoma
+3121: Squamous cell carcinoma
+3123: Basal cell carcinoma
+3125: Merkel cell carcinoma
+3131: Transitional cell carcinoma
+3135: Wilms tumor
+3141: Hepatoblastoma
+3199: Malignant epithelial tumor, special type
+3901: Germ cell tumor, NOS
+3902: Seminoma/Dysgerminoma
+3903: Teratoma (mature and immature)
+3905: Combined germ cell tumors
+5101: Glioma, NOS
+5103: Astrocytoma, grade I-II
+5104: Astrocytoma, grade III-IV/Glioblastoma
+5105: Astrocytoma, pilocytic/juvenile
+5107: Oligodendroglioma
+5109: Ependymoma
+5199: Neuroglial neoplasm, special type
+5211: Retinoblastoma
+5213: Neuroblastoma
+5220: Primitive neuroectodermal tumor/Medulloblastoma
+5230: Peripheral neuroepithelioma
+6011: Malignant melanoma
+8004: Lipoma
+8007: Lipoblastoma
+8016: Chondroid lipoma
+8022: Spindle cell/pleomorphic lipoma
+8025: Hibernoma
+8028: Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma
+8031: Liposarcoma, dedifferentiated
+8034: Liposarcoma, myxoid/round cell
+8037: Liposarcoma, pleomorphic
+8040: Liposarcoma, NOS
+8113: Angiofibroma
+8116: Solitary fibrous tumor
+8125: Inflammatory myofibroblastic tumor/myofibroblastic sarcoma
+8128: Dermatofibrosarcoma protuberans/Bednar tumor/giant cell fibroblastoma
+8131: Fibrosarcoma
+8134: Low-grade fibromyxoid sarcoma
+8135: Sclerosing epithelioid fibrosarcoma
+8136: Myxoinflammatory fibroblastic sarcoma
+8137: Myxofibrosarcoma
+8199: Fibroblastic/myofibroblastic tumor, special type
+8204: Localized giant cell tumor of tendon sheath
+8207: Diffuse-type giant cell tumor
+8210: Benign fibrous histiocytoma
+8304: Leiomyoma
+8307: Myogenic sarcoma, NOS
+8310: Leiomyosarcoma
+8316: Rhabdomyosarcoma, NOS
+8319: Embryonal rhabdomyosarcoma
+8322: Alveolar rhabdomyosarcoma
+8325: Pleomorphic rhabdomyosarcoma
+8399: Muscle tumor, special type
+8405: Pericytoma
+8407: Epithelioid hemangioendothelioma
+8501: Soft tissue tumor, NOS
+8506: Angiomatoid fibrous histiocytoma
+8507: Neurofibroma
+8516: Malignant peripheral nerve sheath tumor/Triton
+8517: Ossifying fibromyxoid tumor
+8519: Myoepithelioma/myoepithelial carcinoma/mixed tumor
+8522: Synovial sarcoma
+8525: Epithelioid sarcoma
+8528: Alveolar soft part sarcoma
+8531: Clear cell sarcoma
+8534: Desmoplastic small round cell tumor
+8541: Undifferentiated pleomorphic sarcoma
+8542: Undifferentiated round cell sarcoma
+8599: Soft tissue tumor, special type
+8604: Osteochondroma
+8608: Subungual exostosis
+8609: Bizarre parosteal osteochondromatous proliferation
+8613: Chondromyxoid fibroma
+8619: Chondroid hamartoma
+8622: Chondrosarcoma, NOS
+8625: Chondrosarcoma, myxoid
+8634: Chondrosarcoma, dedifferentiated
+8704: Osteoid osteoma
+8707: Osteoblastoma
+8710: Osteosarcoma, NOS
+8725: Aneurysmal bone cyst
+8734: Giant cell tumor of bone
+8740: Ewing sarcoma
+8743: Chordoma
+8799: Osteogenic/bone tumor, special type
+8804: Meningioma
+8807: Mesoblastic nephroma
+8810: Mesothelioma
+8813: Endometrial stromal sarcoma
+8816: Gastrointestinal stromal tumor
+8819: Rhabdoid tumor
+8899: Mesenchymal tumor, special type
+9010: Hyperplasia
+9016: Dysplasia
+9029: Nonneoplastic hematologic disorder/lesion
+9049: Nonneoplastic epithelial disorder/lesion
