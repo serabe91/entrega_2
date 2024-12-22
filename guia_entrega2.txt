@@ -1,0 +1,167 @@
+Intencionalidad del código: Los objetivos del mismo y su función se encuentran impresos en el reporte pdf generado, sin
+embargo, en este archivo, se describirá el porqué de la estructura del código por secciones.
+
+	- La función organizar_dataframe(df): la diseñé para limpiar y transformar un DataFrame de Pandas que contiene 
+	información sobre anormalidades cromosómicas. Acá, explico las razones detrás de cada paso que realiza la función:
+
+		- Organización de la columna "Abnormality": La función comienza dividiendo el contenido de la columna
+		"Abnormality" en partes, utilizando el paréntesis como separador. Esto nos permite extraer solo la parte
+		relevante del texto antes del paréntesis, que contiene la descripción de la anormalidad. Algo útil para 
+		simplificar la información y hacerla más legible.
+
+		- Eliminación de columnas innecesarias: Se eliminan las columnas "Topo" y "Gene" porque no son relevantes
+		para el análisis que se va a realizar. Esto ayuda a reducir la complejidad del DataFrame y a enfocarnos en
+		las columnas que realmente importan.
+
+		- Filtrado de cromosomas: Se filtran las filas donde la columna "Chromosome" contiene "X" o "Y". Esto es
+		importante porque, en muchos análisis de aberraciones cromosómicas, se desea excluir los cromosomas sexuales
+		para centrarse en los cromosomas autosómicos. Además de evitar el manejo de distintos tipos de datos dentro
+		de una misma columna.
+
+		- Manejo de valores nulos y tipos de datos: Se reemplazan los valores nulos en las columnas "Morph" y 
+		"MorphName" con cadenas vacías y se aseguran de que ambas columnas sean de tipo string. Algo muy importante
+		para evitar errores en las operaciones posteriores que requieren que los datos sean de un tipo específico.
+
+		- Creación de una nueva columna "Morphology":Se concatena la información de "Morph" y "MorphName" en una 
+		nueva columna llamada "Morphology". Esto permite tener una representación más completa de la morfología en
+		un solo campo.
+
+		- Extracción de códigos morfológicos: Se define una función interna "extraer_num_morfo" que separa el número
+		y la descripción de la morfología a partir de la columna "Morphology". Esto permite crear dos nuevas columnas:
+		"Morph_code" y "morfo", que son útiles para análisis posteriores.
+
+		- Creación de un diccionario de morfologías: Creé un diccionario donde las claves son los códigos 
+		morfológicos únicos y los valores son las descripciones correspondientes. Algo útil para tener una 
+		referencia rápida de las morfologías y sus códigos.
+
+		- Reemplazo de valores en la columna "Type": Se reemplazan los valores "U" y "B" en la columna "Type" por
+		"unbalanced" y "balanced", respectivamente. Con el fin de mejorar la legibilidad y facilidad de
+		interpretación de los datos.
+
+		- Conversión de la columna "Chromosome" a numérico: Me aseguro de que la columna "Chromosome" sea de tipo 
+		numérico, algo muy importante para luego realizar análisis y ordenamientos del DataFrame. Cualquier valor 
+		que no se pueda convertir se reemplaza con NaN, lo que permite manejar errores de forma adecuada.
+
+		- Ordenamiento del DataFrame: Finalmente, ordeno el DataFrame por la columna "Chromosome", lo que 
+		facilitará la visualización y el análisis de los datos.
+
+
+
+
+	- La función analizar_outliers_y_transformacion(df_sorted) fue diseñadada para identificar y analizar valores 
+	atípicos (outliers) en un DataFrame que ordené previamente por la columna CaseCount. Aquí, explico los pasos que
+	realiza la función y las razones detrás de cada uno:
+
+		- Cálculo del Rango Intercuartílico (IQR): Lo añadí para aplicar el método del cálculo del IQR visto en clase, 
+		que se define como la diferencia entre Q3 y Q1. Con el mismo podremos detectar valores atípicos, ya que este
+		proporciona una medida robusta de la dispersión	de los datos. La función comienza calculando el primer cuartil
+		(Q1) y el tercer cuartil (Q3) de la columna CaseCount. 
+
+		- Definición de límites para outliers: Se establecen límites inferior y superior para identificar outliers.
+		Cualquier valor que esté por debajo de Q1 - 1.5 * IQR o por encima de Q3 + 1.5 * IQR se considera un outlier.
+
+		- Filtrado de outliers: Se crea un nuevo DataFrame outliers_iqr que contiene solo las filas donde CaseCount
+		está por debajo del límite inferior o por encima del límite superior. Esto nos va a permitir aislar los 
+		valores atípicos para su análisis posterior.
+
+		- Visualización de outliers vs. datos originales: Se genera un gráfico de dispersión (scatterplot) que nos
+		compara los outliers con los datos originales. Se usan dos sns.scatterplot: uno para los outliers (en rojo)
+		y otro para los datos originales. Permitiendonos visualizar claramente cómo se distribuyen los outliers e
+		relación con el resto de los datos.
+
+		- Conteo de outliers por cromosoma: Se cuenta cuántas veces aparece cada cromosoma en el DataFrame de 
+		outliers utilizando value_counts(). Lo que nos da una visión general de la distribución de los outliers
+		en función de los cromosomas.
+
+		- Visualización de la distribución de outliers por cromosoma: Generé un gráfico de conteo (countplot) que
+		muestra la cantidad de outliers por cromosoma. Lo que nos ayuda a identificar si hay cromosomas específicos 
+		tienen una mayor concentración de valores atípicos.
+
+
+
+	- La función generar_graficos(df) la creé para generar y guardar una serie de gráficas que permiten analizar 
+	anormalidades cromosómicas a partir de un DataFrame. A continuación, describiré los pasos que realiza la función, 
+	el tipo de gráficos que genera, la justificación del porqué se añadieron y el análisis que se puede realizar a partir
+	de cada uno de ellos:
+
+		1. Gráfico de barras: Distribución de anormalidades por cromosoma y brazo
+			- Descripción: Este gráfico muestra la cantidad de anormalidades por cromosoma y brazo. Utiliza un 
+			gráfico de barras apiladas para distinguir entre los diferentes brazos de los cromosomas.
+			- Justificación: Utilizar un gráfico de barras es adecuado aquí porque permite comparar fácilmente 
+			las cantidades de anormalidades entre diferentes cromosomas y brazos. La inclusión de la variable 
+			Arm como un color adicional (hue) proporciona una visualización clara de cómo se distribuyen las 
+			anormalidades en diferentes partes de los cromosomas, facilitando la identificación de patrones y 
+			diferencias significativas.
+			- Análisis: Permite identificar qué cromosomas tienen más anormalidades y si hay diferencias 
+			significativas entre los brazos de un mismo cromosoma. Esto puede ser útil para dirigir investigaciones 
+			hacia áreas específicas del genoma que presentan más anomalías.
+
+		2. Gráfico de barras: Frecuencia de anormalidades
+			- Descripción: Este gráfico presenta la frecuencia total de cada tipo de anormalidad, ordenada de 
+			mayor a menor.
+			- Justificación: Un gráfico de barras es ideal para mostrar la frecuencia de categorías discretas, 
+			como los tipos de anormalidades. Al ordenar las barras de mayor a menor, se facilita la identificación 
+			rápida de las anormalidades más comunes, lo que es crucial para priorizar investigaciones y recursos
+			en áreas de mayor impacto a nivel cromosómico.
+			- Análisis: Permite identificar las anormalidades más comunes en el conjunto de datos.
+
+		3. Mapa de calor: Tipo de anormalidad por cromosoma
+			- Descripción: Este mapa de calor muestra la distribución de diferentes tipos de anormalidades en 
+			cada cromosoma.
+			- Justificación: Los mapas de calor son efectivos para visualizar datos en formato de tabla, ya que
+			permiten identificar patrones y relaciones entre dos variables categóricas. En este caso, se puede 
+			observar fácilmente qué tipos de anormalidades son más prevalentes en cada cromosoma, lo que puede 
+			sugerir relaciones biológicas o genéticas.
+			- Análisis: Facilita la identificación de patrones en la distribución de tipos de anormalidades a lo
+			largo de los cromosomas. 
+
+		4. Gráfico de dispersión: Distribución de casos por banda cromosómica
+			- Descripción: Este gráfico de dispersión muestra la cantidad de casos por banda cromosómica, 
+			diferenciando los tipos de anormalidades por color.
+			- Justificación: Un gráfico de dispersión es adecuado para mostrar la relación entre dos variables 
+			numéricas (en este caso, Band y CaseCount). La inclusión de hue para diferenciar los tipos de 
+			anormalidades permite observar cómo se distribuyen los casos a lo largo de las bandas, facilitando 
+			la identificación de bandas con alta concentración de casos y patrones de distribución.
+			- Análisis: Permite observar la variabilidad en la cantidad de casos a lo largo de las bandas 
+			cromosómicas. Se pueden identificar bandas con alta concentración de casos, lo que puede ser 
+			indicativo de regiones del genoma que son más susceptibles a anormalidades.
+
+		5. Gráfico de tiras: Casos por tipo de anormalidad
+			- Descripción: Este gráfico de tiras muestra la distribución de casos para cada tipo de anormalidad.
+			- Justificación: El gráfico de tiras es útil para visualizar la distribución de datos categóricos y
+			numéricos, especialmente cuando hay superposición de puntos. Al colocar jitter, traté de evitar la 
+			superposición, viendo la densidad de casos para cada tipo de anormalidad. Este gráfico ayuda a
+			identificar si hay tipos de anormalidades que tienen una mayor variabilidad en la cantidad de casos.
+			- Análisis: Facilita la identificación de patrones en la distribución de casos por tipo de 
+			anormalidad. Se pueden observar si ciertos tipos de anormalidades tienen una mayor concentración de 
+			casos o si hay una amplia variabilidad en la cantidad de casos, lo que puede ser relevante para 
+			estudios clínicos o epidemiológicos.
+
+		6. Mapa de calor avanzado: Frecuencia de anormalidades por banda y tipo
+			- Descripción: Este mapa de calor muestra la frecuencia de anormalidades por banda cromosómica y 
+			tipo.
+			- Justificación: Este tipo de visualización es eficaz para representar datos complejos en un formato
+			que permite identificar rápidamente patrones y relaciones. Al mostrar la frecuencia de anormalidades
+			en función de las bandas y tipos, se pueden observar tendencias que podrían no ser evidentes en otros
+			tipos de gráficos.
+			- Análisis: Permite identificar bandas cromosómicas específicas que tienen una alta frecuencia de 
+			anormalidades, lo que puede ser crucial para investigaciones genéticas. Además, se pueden observar 
+			si ciertos tipos de anormalidades son más prevalentes en bandas específicas, lo que puede sugerir 
+			áreas de interés para estudios futuros.
+
+
+
+	- La función crear_reporte_pdf genera un informe en PDF sobre el análisis de aberraciones cromosómicas utilizando la
+	biblioteca ReportLab. El informe incluye varias secciones, comenzando con una página de presentación.
+	A continuación, coloqué una página de introducción que detalla el propósito del código, los objetivos específicos
+	del análisis y la fuente de información utilizada, que es la Mitelman Database. 
+	El informe también incluye un índice que enumera las secciones y un índice de gráficos, proporcionando una referencia
+	rápida para cualquier persona o compañero que navegue por la entrega.
+	Finalmente, la función agrega las gráficas generadas en el análisis, asegurándose de que cada gráfico se incluya 
+	en una nueva página del PDF. 
+
+	(Para esta sección del código me apoyé en inteligencia artificial pues es algo que nunca había trabajado y era algo 
+	que no está dentro de los parámetros de la entrega, aún y así fue lo que más me tomó tiempo porque cada vez que
+	alteraba alguna parte o parámetro, todo se modificaba y tuve que hacer unas simplificaciones a mi idea original de
+	también mostrar dentro del PDF parte de los DataFrames y el diccionario de morfologías, pero se hizo muy complicado
+	y decidí dejarlo como archivos externos anexos)
